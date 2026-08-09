@@ -268,7 +268,7 @@ def split_feed(
     *,
     separator: str = " / ",
     timed: bool = False,
-    refresh_hours: int = 12,
+    refresh_hours: int = 24,
 ) -> tuple[dict[str, str], list[str]]:
     """Split a source feed into ``{filename: ics text}`` plus unmatched titles."""
     grouped: dict[str, list[dict[str, str]]] = {meal.key: [] for meal in MEALS}
@@ -353,8 +353,8 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--refresh-hours",
         type=int,
-        default=12,
-        help="refresh interval advertised to calendar clients (default: 12)",
+        default=24,
+        help="refresh interval advertised to calendar clients (default: 24)",
     )
     args = parser.parse_args(argv)
 

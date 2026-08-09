@@ -2,10 +2,10 @@ name: Update meal feeds
 
 on:
   schedule:
-    # 06:10 and 18:10 Pacific (13:10 / 01:10 UTC). GitHub's scheduler is
-    # best-effort and often runs late, so the exact minute is not load-bearing.
+    # Once a day at 05:10 Pacific (13:10 UTC), before the school day. The menu
+    # rarely changes, and GitHub's scheduler is best-effort and often runs
+    # late, so the exact minute is not load-bearing.
     - cron: "10 13 * * *"
-    - cron: "10 1 * * *"
   workflow_dispatch:
   push:
     branches: [main]

@@ -53,9 +53,10 @@ own schedule, frequently only every 8–24 hours; Apple Calendar lets you pick.
 
 ## How it refreshes
 
-`.github/workflows/update-feeds.yml` runs twice a day (06:10 and 18:10 Pacific),
-plus on demand. It runs the tests, regenerates `docs/*.ics`, and commits **only
-if a menu actually changed**.
+`.github/workflows/update-feeds.yml` runs once a day at 05:10 Pacific, plus on
+demand. It runs the tests, regenerates `docs/*.ics`, and commits **only if a
+menu actually changed** — which, given the district posts months at a time, will
+be rare.
 
 That last part is why event timestamps are derived from each event's date rather
 than the current clock: the source feed's own `DTSTAMP` values change every time
@@ -83,7 +84,7 @@ Options:
 | `--out` | `docs` | Output directory |
 | `--separator` | `" / "` | Text between menu items in the title |
 | `--timed` | off | Emit events at typical serving times instead of all-day |
-| `--refresh-hours` | `12` | Refresh interval advertised to calendar clients |
+| `--refresh-hours` | `24` | Refresh interval advertised to calendar clients |
 
 Tests:
 
