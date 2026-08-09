@@ -30,12 +30,12 @@ Once GitHub Pages is enabled (see below), the feeds live at:
 
 | Meal | Subscription URL |
 | --- | --- |
-| Breakfast | `https://cambridgeheightspfc.github.io/meal-calendar-sync/breakfast.ics` |
-| Lunch | `https://cambridgeheightspfc.github.io/meal-calendar-sync/lunch.ics` |
-| Snack | `https://cambridgeheightspfc.github.io/meal-calendar-sync/snack.ics` |
+| Breakfast | `https://meals.chpfc.space/breakfast.ics` |
+| Lunch | `https://meals.chpfc.space/lunch.ics` |
+| Snack | `https://meals.chpfc.space/snack.ics` |
 
-`https://cambridgeheightspfc.github.io/meal-calendar-sync/` is a landing page with
-one-tap subscribe buttons.
+`https://meals.chpfc.space/` is a landing page with one-tap subscribe buttons —
+that is the link to share with families.
 
 Subscribe to these URLs, don't import them — importing copies the events once
 and they never update. Note that Google Calendar refreshes external feeds on its
@@ -43,37 +43,58 @@ own schedule, frequently only every 8–24 hours; Apple Calendar lets you pick.
 
 ## Setup
 
-1. Merge this branch to `main`.
-2. **Settings → Pages → Source: Deploy from a branch**, branch `main`, folder
+Do these in order. Transferring after the links are out means re-sharing them,
+and DNS before Pages means the certificate provisions on the first try.
+
+1. **Transfer the repository to the `cambridgeheightspfc` organization** and make
+   it public. Pages on a free organization plan requires a public repository.
+2. **Merge this branch to `main`.**
+3. **Settings → Pages → Source: Deploy from a branch**, branch `main`, folder
    `/docs`.
-3. **Settings → Actions → General → Workflow permissions: Read and write** so
-   the scheduled job can commit regenerated feeds.
-4. **Actions → Update meal feeds → Run workflow** to confirm it works without
-   waiting for the schedule.
+4. **Settings → Actions → General → Workflow permissions: Read and write**, so
+   the scheduled job can commit regenerated feeds. This is a repository setting
+   an organization can override, so confirm it *after* the transfer.
+5. **Add the DNS record** (below), then **Settings → Pages → Custom domain** →
+   `meals.chpfc.space`.
+6. **Actions → Update meal feeds → Run workflow** to confirm the daily job works
+   without waiting for the schedule.
 
 ### Custom domain
 
-A subdomain of a PFC domain is the link worth sharing, and it keeps working if
-this ever moves off GitHub Pages:
+`docs/CNAME` already pins the site to `meals.chpfc.space`. What remains is one
+DNS record, at whoever hosts DNS for `chpfc.space`:
 
-1. Add a DNS `CNAME` record for the subdomain you want, pointing at
-   `cambridgeheightspfc.github.io.` (with the trailing dot). Use a subdomain
-   rather than the apex — a `CNAME` on `meals.` cannot disturb whatever serves
-   the main PFC site, and apex domains need four `A` records instead.
-2. Put that hostname, alone on one line, in `docs/CNAME`.
-3. **Settings → Pages → Custom domain**, enter it, and wait for the DNS check.
-4. Tick **Enforce HTTPS** once the certificate finishes provisioning. Do not
-   skip this: several calendar clients refuse plain-HTTP subscriptions outright,
-   and others will fetch it but warn.
+| Type | Name | Value |
+| --- | --- | --- |
+| `CNAME` | `meals` | `cambridgeheightspfc.github.io.` |
+
+A subdomain rather than the apex, deliberately: a `CNAME` on `meals.` cannot
+disturb whatever might later serve the main PFC site, and apex domains need four
+`A` records instead. If you would rather serve this at `chpfc.space` itself, that
+is a one-line change to `docs/CNAME` plus the apex records GitHub documents.
+
+Then tick **Enforce HTTPS** once the certificate finishes provisioning. Do not
+skip it: several calendar clients refuse plain-HTTP subscriptions outright, and
+others fetch it but warn.
 
 `docs/index.html` needs no edit — it builds its subscribe links from whatever
-address it is served at, so the custom domain propagates on its own. The feed
-generator never deletes files it did not write, so `docs/CNAME` survives every
-scheduled rebuild.
+address it is served at, so the domain propagates on its own. The feed generator
+never deletes files it did not write, so `docs/CNAME` survives every rebuild.
 
-Verify with `curl -sI https://<domain>/lunch.ics`, checking for
-`content-type: text/calendar`. Anything else — `text/plain` especially — and
-some clients will refuse to subscribe.
+Two things to check once it is live:
+
+```bash
+curl -sI https://meals.chpfc.space/lunch.ics | grep -i 'content-type\|^HTTP'
+```
+
+Expect `200` and `content-type: text/calendar`. Anything else — `text/plain`
+especially — and some clients refuse to subscribe.
+
+Second, send the link to yourself through whatever the PFC uses for family
+email before announcing it. Newer TLDs like `.space` carry a worse reputation
+with spam filters than `.org` does, and school-district mail filters are often
+strict. If it gets flagged, linking to the landing page from an existing PFC
+page and sharing *that* avoids putting the bare domain in an email.
 
 ## How it refreshes
 
@@ -92,22 +113,22 @@ failing the run. A failed run leaves the last good feeds in place.
 
 ## If the repository moves again
 
-The splitter itself has no notion of who owns this repository, so a transfer or
-rename needs no code change. What does depend on the owner:
+Because the published URL is `meals.chpfc.space` rather than a `github.io`
+address, subscribers do not care who owns the repository or where it is hosted.
+A transfer, a rename, or a move to another static host only needs:
 
-- `docs/index.html` rewrites its own links from the address it is served at, so
-  the landing page follows a move on its own. The URLs written into the markup
-  are the fallback for browsers with JavaScript disabled — worth correcting, but
-  not urgent.
-- This README's table, and the `User-Agent` the fetch sends, are plain strings.
-- Anyone already subscribed keeps hitting the old URL. GitHub redirects a
-  transferred repository's Pages site for a while, but not forever, so re-share
-  the new links.
+- **The DNS record** repointed, if the owner changed — GitHub matches the `CNAME`
+  target against the account serving the site.
+- **`docs/CNAME`** left alone, unless the domain itself changes.
+- **The `User-Agent`** in `split_meals.py`, which names the repository as a
+  courtesy to the district's server. Cosmetic.
 
-Move the repository **before** enabling Pages and handing the links out, and none
-of that last point applies. Also note that Pages on a free organization plan
-requires the repository to be public, and organizations can restrict Actions
-permissions org-wide — check that the workflow can still write after a transfer.
+`docs/index.html` needs nothing: it derives its subscribe links from wherever it
+is being served. The hardcoded URLs in the markup are only the fallback for
+browsers with JavaScript disabled.
+
+That is the point of the custom domain — the link you hand to families is the
+one thing that never has to change again.
 
 ## Running it yourself
 
