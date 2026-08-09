@@ -1,0 +1,205 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//meal-calendar-sync//Split meal feeds//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:School Snack
+NAME:School Snack
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
+BEGIN:VEVENT
+UID:3412052@www.sanjuan.edu
+DTSTAMP:20260813T000000Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Snack: Cheese Lunch Pack
+DESCRIPTION:\nCheese Lunch Pack\n    \n \n    \nOne breakfast is available
+  to all students at no cost. All meals are served with fruit variety and 1
+ % low-fat or non-fat chocolate milk (soy milk available upon request). Stu
+ dents must choose at least one fruit option. All grains offered are whole 
+ grain rich. Menu subject to change based on product availability.\n    \nT
+ his institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412053@www.sanjuan.edu
+DTSTAMP:20260814T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Snack: Wowbutter Sandwich\, Grape
+DESCRIPTION:\nWowbutter Sandwich\, Grape\n    \n \n    \nOne breakfast is 
+ available to all students at no cost. All meals are served with fruit vari
+ ety and 1% low-fat or non-fat chocolate milk (soy milk available upon requ
+ est). Students must choose at least one fruit option. All grains offered a
+ re whole grain rich. Menu subject to change based on product availability.
+ \n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412054@www.sanjuan.edu
+DTSTAMP:20260817T000000Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:Snack: Turkey Ham Croissant
+DESCRIPTION:\nTurkey Ham Croissant\n    \n \n    \nOne breakfast is availa
+ ble to all students at no cost. All meals are served with fruit variety an
+ d 1% low-fat or non-fat chocolate milk (soy milk available upon request). 
+ Students must choose at least one fruit option. All grains offered are who
+ le grain rich. Menu subject to change based on product availability.\n    
+ \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412055@www.sanjuan.edu
+DTSTAMP:20260818T000000Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Snack: Boiled Egg w Crackers
+DESCRIPTION:\nBoiled Egg w Crackers\n    \n \n    \nOne breakfast is avail
+ able to all students at no cost. All meals are served with fruit variety a
+ nd 1% low-fat or non-fat chocolate milk (soy milk available upon request).
+  Students must choose at least one fruit option. All grains offered are wh
+ ole grain rich. Menu subject to change based on product availability.\n   
+  \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412056@www.sanjuan.edu
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:Snack: Cheese Lunch Pack
+DESCRIPTION:\nCheese Lunch Pack\n    \n \n    \nOne breakfast is available
+  to all students at no cost. All meals are served with fruit variety and 1
+ % low-fat or non-fat chocolate milk (soy milk available upon request). Stu
+ dents must choose at least one fruit option. All grains offered are whole 
+ grain rich. Menu subject to change based on product availability.\n    \nT
+ his institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412057@www.sanjuan.edu
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Snack: Burrito\, Bean & Ch (halal)
+DESCRIPTION:\nBurrito\, Bean & Ch (halal)\n    \n \n    \nOne breakfast is
+  available to all students at no cost. All meals are served with fruit var
+ iety and 1% low-fat or non-fat chocolate milk (soy milk available upon req
+ uest). Students must choose at least one fruit option. All grains offered 
+ are whole grain rich. Menu subject to change based on product availability
+ .\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412058@www.sanjuan.edu
+DTSTAMP:20260821T000000Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Snack: Wowbutter Sandwich\, Grape
+DESCRIPTION:\nWowbutter Sandwich\, Grape\n    \n \n    \nOne breakfast is 
+ available to all students at no cost. All meals are served with fruit vari
+ ety and 1% low-fat or non-fat chocolate milk (soy milk available upon requ
+ est). Students must choose at least one fruit option. All grains offered a
+ re whole grain rich. Menu subject to change based on product availability.
+ \n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412059@www.sanjuan.edu
+DTSTAMP:20260824T000000Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:Snack: Turkey Ham Croissant
+DESCRIPTION:\nTurkey Ham Croissant\n    \n \n    \nOne breakfast is availa
+ ble to all students at no cost. All meals are served with fruit variety an
+ d 1% low-fat or non-fat chocolate milk (soy milk available upon request). 
+ Students must choose at least one fruit option. All grains offered are who
+ le grain rich. Menu subject to change based on product availability.\n    
+ \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412060@www.sanjuan.edu
+DTSTAMP:20260825T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Snack: Cheese Lunch Pack
+DESCRIPTION:\nCheese Lunch Pack\n    \n \n    \nOne breakfast is available
+  to all students at no cost. All meals are served with fruit variety and 1
+ % low-fat or non-fat chocolate milk (soy milk available upon request). Stu
+ dents must choose at least one fruit option. All grains offered are whole 
+ grain rich. Menu subject to change based on product availability.\n    \nT
+ his institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412061@www.sanjuan.edu
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:Snack: Wowbutter Sandwich\, Grape
+DESCRIPTION:\nWowbutter Sandwich\, Grape\n    \n \n    \nOne breakfast is 
+ available to all students at no cost. All meals are served with fruit vari
+ ety and 1% low-fat or non-fat chocolate milk (soy milk available upon requ
+ est). Students must choose at least one fruit option. All grains offered a
+ re whole grain rich. Menu subject to change based on product availability.
+ \n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412062@www.sanjuan.edu
+DTSTAMP:20260827T000000Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Snack: Burrito\, Bean & Ch (halal)
+DESCRIPTION:\nBurrito\, Bean & Ch (halal)\n    \n \n    \nOne breakfast is
+  available to all students at no cost. All meals are served with fruit var
+ iety and 1% low-fat or non-fat chocolate milk (soy milk available upon req
+ uest). Students must choose at least one fruit option. All grains offered 
+ are whole grain rich. Menu subject to change based on product availability
+ .\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412063@www.sanjuan.edu
+DTSTAMP:20260828T000000Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Snack: Boiled Egg w/ Crackers
+DESCRIPTION:\nBoiled Egg w/ Crackers\n    \n \n    \nOne breakfast is avai
+ lable to all students at no cost. All meals are served with fruit variety 
+ and 1% low-fat or non-fat chocolate milk (soy milk available upon request)
+ . Students must choose at least one fruit option. All grains offered are w
+ hole grain rich. Menu subject to change based on product availability.\n  
+   \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3412064@www.sanjuan.edu
+DTSTAMP:20260831T000000Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:Snack: Turkey Ham Croissant
+DESCRIPTION:\nTurkey Ham Croissant\n    \n \n    \nOne breakfast is availa
+ ble to all students at no cost. All meals are served with fruit variety an
+ d 1% low-fat or non-fat chocolate milk (soy milk available upon request). 
+ Students must choose at least one fruit option. All grains offered are who
+ le grain rich. Menu subject to change based on product availability.\n    
+ \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

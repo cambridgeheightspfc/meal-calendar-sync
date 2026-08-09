@@ -1,0 +1,49 @@
+name: Update meal feeds
+
+on:
+  schedule:
+    # Once a day at 05:10 Pacific (13:10 UTC), before the school day. The menu
+    # rarely changes, and GitHub's scheduler is best-effort and often runs
+    # late, so the exact minute is not load-bearing.
+    - cron: "10 13 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - split_meals.py
+      - .github/workflows/update-feeds.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-feeds
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -t .
+
+      - name: Regenerate feeds
+        run: python split_meals.py --out docs
+
+      - name: Commit any menu changes
+        run: |
+          if git diff --quiet -- docs; then
+            echo "No menu changes; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git commit -m "Update meal feeds"
+          git push
