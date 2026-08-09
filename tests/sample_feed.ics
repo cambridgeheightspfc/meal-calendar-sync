@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//San Juan Unified School District/finalsite//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Nutrition Services - K-8
+BEGIN:VEVENT
+UID:3412052@www.sanjuan.edu
+DTSTAMP:20260809T152607Z
+DTSTART;VALUE=DATE:20260813
+SUMMARY:Bridges Super Snack
+DESCRIPTION:\nCheese Lunch Pack\n    \n \n    \nOne breakfast is available to all students at no cost. All meals are served with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk available upon request). Students must choose at least one fruit option. All grains offered are whole grain rich. Menu subject to change based on product availability.\n    \nThis institution is an equal opportunity provider.\n
+PRIORITY:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3370342@www.sanjuan.edu
+DTSTAMP:20260809T152607Z
+DTSTART;VALUE=DATE:20260710
+SUMMARY:K-8 Breakfast
+DESCRIPTION:\nSliced Loaf Variety\n    \n \n    \nCocoa Berry Oats (fresh)\n    \n \n    \nOne breakfast is available to all students at no cost. All meals are served with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk available upon request). Students must choose at least one fruit option. All grains offered are whole grain rich. Menu subject to change based on product availability.\n    \nThis institution is an equal opportunity provider.\n
+PRIORITY:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3370354@www.sanjuan.edu
+DTSTAMP:20260809T152607Z
+DTSTART;VALUE=DATE:20260710
+SUMMARY:K-8 Lunch
+DESCRIPTION:\nCountry Chicken Bowl (fresh)\n    \n \n    \nFalafel Wrap (fresh\, halal\, & vegan)\n    \n \n    \nOne breakfast is available to all students at no cost. All meals are served with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk available upon request). Students must choose at least one fruit option. All grains offered are whole grain rich. Menu subject to change based on product availability.\n    \nThis institution is an equal opportunity provider.\n
+PRIORITY:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3370343@www.sanjuan.edu
+DTSTAMP:20260809T152607Z
+DTSTART;VALUE=DATE:20260713
+SUMMARY:K-8 Breakfast
+DESCRIPTION:\nCinn Maple Sausage\n    \n \n    \nFresh Baked Mini Loaf (fresh)\n    \n \n    \nOne breakfast is available to all students at no cost. All meals are served with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk available upon request). Students must choose at least one fruit option. All grains offered are whole grain rich. Menu subject to change based on product availability.\n    \nThis institution is an equal opportunity provider.\n
+PRIORITY:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3370355@www.sanjuan.edu
+DTSTAMP:20260809T152607Z
+DTSTART;VALUE=DATE:20260713
+SUMMARY:K-8 Lunch
+DESCRIPTION:\nTurkey Nacho Dip w Chips (fresh)\n    \n \n    \nBurrito\, Bean & Cheese (vegetarian & halal)\n    \n \n    \nOne breakfast is available to all students at no cost. All meals are served with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk available upon request). Students must choose at least one fruit option. All grains offered are whole grain rich. Menu subject to change based on product availability.\n    \nThis institution is an equal opportunity provider.\n
+PRIORITY:0
+END:VEVENT
+END:VCALENDAR

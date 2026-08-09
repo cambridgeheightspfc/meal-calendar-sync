@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>School meal calendars</title>
+<style>
+  :root {
+    color-scheme: light dark;
+    --bg: #fbfaf8;
+    --card: #ffffff;
+    --ink: #1c1a17;
+    --muted: #6b6560;
+    --line: #e5e1db;
+    --accent: #b4501e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #171614;
+      --card: #201e1b;
+      --ink: #f0ece6;
+      --muted: #a09a92;
+      --line: #33302c;
+      --accent: #e8905c;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 2.5rem 1.25rem 4rem;
+    background: var(--bg);
+    color: var(--ink);
+    font: 16px/1.6 ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  main { max-width: 42rem; margin: 0 auto; }
+  h1 { font-size: 1.75rem; line-height: 1.2; margin: 0 0 .5rem; letter-spacing: -.02em; }
+  .lede { color: var(--muted); margin: 0 0 2.5rem; }
+  .feed {
+    background: var(--card);
+    border: 1px solid var(--line);
+    border-radius: 12px;
+    padding: 1.25rem;
+    margin-bottom: 1rem;
+  }
+  .feed h2 { font-size: 1.05rem; margin: 0 0 .15rem; }
+  .feed p { margin: 0 0 .9rem; color: var(--muted); font-size: .9rem; }
+  .row { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center; }
+  a.subscribe {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: .9rem;
+    padding: .5rem .95rem;
+    border-radius: 8px;
+  }
+  button.copy {
+    font: inherit;
+    font-size: .9rem;
+    padding: .5rem .95rem;
+    border-radius: 8px;
+    border: 1px solid var(--line);
+    background: transparent;
+    color: var(--ink);
+    cursor: pointer;
+  }
+  button.copy:hover { border-color: var(--accent); color: var(--accent); }
+  code.url {
+    display: block;
+    margin-top: .75rem;
+    padding: .55rem .7rem;
+    background: var(--bg);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    font-size: .8rem;
+    overflow-x: auto;
+    white-space: nowrap;
+    color: var(--muted);
+  }
+  details { margin-top: 2.5rem; font-size: .9rem; color: var(--muted); }
+  summary { cursor: pointer; color: var(--ink); font-weight: 600; }
+  details ul { padding-left: 1.1rem; }
+  footer { margin-top: 2.5rem; font-size: .8rem; color: var(--muted); }
+  footer a { color: inherit; }
+</style>
+</head>
+<body>
+<main>
+  <h1>School meal calendars</h1>
+  <p class="lede">
+    The district publishes breakfast, lunch and snack as one combined feed with the
+    menu buried in each event's notes. These are the same events split by meal, with
+    the menu moved into the event title so you can read the week at a glance.
+  </p>
+
+  <div class="feed">
+    <h2>Breakfast</h2>
+    <p>e.g. &ldquo;Breakfast: Pan Dulce / Cocoa Berry Oats (fresh)&rdquo;</p>
+    <div class="row">
+      <a class="subscribe" href="webcal://justinross.github.io/meal-calendar-sync/breakfast.ics">Subscribe</a>
+      <button class="copy" data-url="https://justinross.github.io/meal-calendar-sync/breakfast.ics">Copy link</button>
+    </div>
+    <code class="url">https://justinross.github.io/meal-calendar-sync/breakfast.ics</code>
+  </div>
+
+  <div class="feed">
+    <h2>Lunch</h2>
+    <p>e.g. &ldquo;Lunch: Fish Tacos (fresh) / Grilled Cheese Sandwich (vegetarian)&rdquo;</p>
+    <div class="row">
+      <a class="subscribe" href="webcal://justinross.github.io/meal-calendar-sync/lunch.ics">Subscribe</a>
+      <button class="copy" data-url="https://justinross.github.io/meal-calendar-sync/lunch.ics">Copy link</button>
+    </div>
+    <code class="url">https://justinross.github.io/meal-calendar-sync/lunch.ics</code>
+  </div>
+
+  <div class="feed">
+    <h2>Snack</h2>
+    <p>Bridges Super Snack, e.g. &ldquo;Snack: Boiled Egg w Crackers&rdquo;</p>
+    <div class="row">
+      <a class="subscribe" href="webcal://justinross.github.io/meal-calendar-sync/snack.ics">Subscribe</a>
+      <button class="copy" data-url="https://justinross.github.io/meal-calendar-sync/snack.ics">Copy link</button>
+    </div>
+    <code class="url">https://justinross.github.io/meal-calendar-sync/snack.ics</code>
+  </div>
+
+  <details>
+    <summary>How to subscribe</summary>
+    <ul>
+      <li><strong>iPhone / iPad:</strong> tap <em>Subscribe</em> above and confirm.</li>
+      <li><strong>macOS Calendar:</strong> File &rarr; New Calendar Subscription, paste the link.</li>
+      <li><strong>Google Calendar:</strong> Other calendars &rarr; <em>+</em> &rarr; From URL, paste the link.
+        Google refreshes external feeds on its own schedule, often only every 8&ndash;24 hours.</li>
+      <li><strong>Outlook:</strong> Add calendar &rarr; Subscribe from web, paste the link.</li>
+    </ul>
+    <p>
+      Subscribe, don't import &mdash; importing copies the events once and they never update.
+    </p>
+  </details>
+
+  <footer>
+    Regenerated twice daily from the district's
+    <a href="https://www.sanjuan.edu/calendar/calendar_445.ics">Nutrition Services &ndash; K-8</a> feed.
+    Unofficial; the district's calendar is the source of truth.
+  </footer>
+</main>
+<script>
+  document.querySelectorAll("button.copy").forEach(function (button) {
+    button.addEventListener("click", function () {
+      navigator.clipboard.writeText(button.dataset.url).then(function () {
+        var original = button.textContent;
+        button.textContent = "Copied";
+        setTimeout(function () { button.textContent = original; }, 1500);
+      });
+    });
+  });
+</script>
+</body>
+</html>
