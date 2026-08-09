@@ -313,7 +313,7 @@ def fetch(url: str, *, timeout: int = 60, retries: int = 3, sleep=time.sleep) ->
     request = urllib.request.Request(
         url,
         headers={
-            "User-Agent": "meal-calendar-sync (+https://github.com/justinross/meal-calendar-sync)"
+            "User-Agent": "meal-calendar-sync (+https://github.com/cambridgeheightspfc/meal-calendar-sync)"
         },
     )
     for attempt in range(retries):

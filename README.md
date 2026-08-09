@@ -30,11 +30,11 @@ Once GitHub Pages is enabled (see below), the feeds live at:
 
 | Meal | Subscription URL |
 | --- | --- |
-| Breakfast | `https://justinross.github.io/meal-calendar-sync/breakfast.ics` |
-| Lunch | `https://justinross.github.io/meal-calendar-sync/lunch.ics` |
-| Snack | `https://justinross.github.io/meal-calendar-sync/snack.ics` |
+| Breakfast | `https://cambridgeheightspfc.github.io/meal-calendar-sync/breakfast.ics` |
+| Lunch | `https://cambridgeheightspfc.github.io/meal-calendar-sync/lunch.ics` |
+| Snack | `https://cambridgeheightspfc.github.io/meal-calendar-sync/snack.ics` |
 
-`https://justinross.github.io/meal-calendar-sync/` is a landing page with
+`https://cambridgeheightspfc.github.io/meal-calendar-sync/` is a landing page with
 one-tap subscribe buttons.
 
 Subscribe to these URLs, don't import them — importing copies the events once
@@ -65,6 +65,25 @@ every single run whether or not anything about the menu was different.
 
 If the district's site is down, the fetch retries three times with backoff before
 failing the run. A failed run leaves the last good feeds in place.
+
+## If the repository moves again
+
+The splitter itself has no notion of who owns this repository, so a transfer or
+rename needs no code change. What does depend on the owner:
+
+- `docs/index.html` rewrites its own links from the address it is served at, so
+  the landing page follows a move on its own. The URLs written into the markup
+  are the fallback for browsers with JavaScript disabled — worth correcting, but
+  not urgent.
+- This README's table, and the `User-Agent` the fetch sends, are plain strings.
+- Anyone already subscribed keeps hitting the old URL. GitHub redirects a
+  transferred repository's Pages site for a while, but not forever, so re-share
+  the new links.
+
+Move the repository **before** enabling Pages and handing the links out, and none
+of that last point applies. Also note that Pages on a free organization plan
+requires the repository to be public, and organizations can restrict Actions
+permissions org-wide — check that the workflow can still write after a transfer.
 
 ## Running it yourself
 
