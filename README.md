@@ -51,6 +51,30 @@ own schedule, frequently only every 8–24 hours; Apple Calendar lets you pick.
 4. **Actions → Update meal feeds → Run workflow** to confirm it works without
    waiting for the schedule.
 
+### Custom domain
+
+A subdomain of a PFC domain is the link worth sharing, and it keeps working if
+this ever moves off GitHub Pages:
+
+1. Add a DNS `CNAME` record for the subdomain you want, pointing at
+   `cambridgeheightspfc.github.io.` (with the trailing dot). Use a subdomain
+   rather than the apex — a `CNAME` on `meals.` cannot disturb whatever serves
+   the main PFC site, and apex domains need four `A` records instead.
+2. Put that hostname, alone on one line, in `docs/CNAME`.
+3. **Settings → Pages → Custom domain**, enter it, and wait for the DNS check.
+4. Tick **Enforce HTTPS** once the certificate finishes provisioning. Do not
+   skip this: several calendar clients refuse plain-HTTP subscriptions outright,
+   and others will fetch it but warn.
+
+`docs/index.html` needs no edit — it builds its subscribe links from whatever
+address it is served at, so the custom domain propagates on its own. The feed
+generator never deletes files it did not write, so `docs/CNAME` survives every
+scheduled rebuild.
+
+Verify with `curl -sI https://<domain>/lunch.ics`, checking for
+`content-type: text/calendar`. Anything else — `text/plain` especially — and
+some clients will refuse to subscribe.
+
 ## How it refreshes
 
 `.github/workflows/update-feeds.yml` runs once a day at 05:10 Pacific, plus on
