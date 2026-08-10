@@ -8,23 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3370354@www.sanjuan.edu
-DTSTAMP:20260710T000000Z
-DTSTART;VALUE=DATE:20260710
-DTEND;VALUE=DATE:20260711
-SUMMARY:Lunch: Country Chicken Bowl (fresh) / Falafel Wrap (fresh\, halal\,
-  & vegan)
-DESCRIPTION:\nCountry Chicken Bowl (fresh)\n    \n \n    \nFalafel Wrap (f
- resh\, halal\, & vegan)\n    \n \n    \nOne breakfast is available to all
-  students at no cost. All meals are served with fruit variety and 1% low-f
- at or non-fat chocolate milk (soy milk available upon request). Students m
- ust choose at least one fruit option. All grains offered are whole grain r
- ich. Menu subject to change based on product availability.\n    \nThis ins
- titution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3370355@www.sanjuan.edu
 DTSTAMP:20260713T000000Z
 DTSTART;VALUE=DATE:20260713
