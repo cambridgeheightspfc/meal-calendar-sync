@@ -8,23 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3370355@www.sanjuan.edu
-DTSTAMP:20260713T000000Z
-DTSTART;VALUE=DATE:20260713
-DTEND;VALUE=DATE:20260714
-SUMMARY:Lunch: Turkey Nacho Dip w Chips (fresh) / Burrito\, Bean & Cheese (
- vegetarian & halal)
-DESCRIPTION:\nTurkey Nacho Dip w Chips (fresh)\n    \n \n    \nBurrito\, 
- Bean & Cheese (vegetarian & halal)\n    \n \n    \nOne breakfast is avai
- lable to all students at no cost. All meals are served with fruit variety 
- and 1% low-fat or non-fat chocolate milk (soy milk available upon request)
- . Students must choose at least one fruit option. All grains offered are w
- hole grain rich. Menu subject to change based on product availability.\n  
-   \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3370356@www.sanjuan.edu
 DTSTAMP:20260714T000000Z
 DTSTART;VALUE=DATE:20260714
