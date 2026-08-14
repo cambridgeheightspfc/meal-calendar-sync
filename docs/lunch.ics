@@ -8,22 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3370356@www.sanjuan.edu
-DTSTAMP:20260714T000000Z
-DTSTART;VALUE=DATE:20260714
-DTEND;VALUE=DATE:20260715
-SUMMARY:Lunch: Chicken Potato\, Ch Taco / Black Bean Burger (fresh & vegan)
-DESCRIPTION:\nChicken Potato\, Ch Taco\n    \n \n    \nBlack Bean Burger 
- (fresh & vegan)\n    \n \n    \nOne breakfast is available to all studen
- ts at no cost. All meals are served with fruit variety and 1% low-fat or n
- on-fat chocolate milk (soy milk available upon request). Students must cho
- ose at least one fruit option. All grains offered are whole grain rich. Me
- nu subject to change based on product availability.\n    \nThis institutio
- n is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3370357@www.sanjuan.edu
 DTSTAMP:20260715T000000Z
 DTSTART;VALUE=DATE:20260715
