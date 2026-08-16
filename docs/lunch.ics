@@ -8,23 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3370358@www.sanjuan.edu
-DTSTAMP:20260716T000000Z
-DTSTART;VALUE=DATE:20260716
-DTEND;VALUE=DATE:20260717
-SUMMARY:Lunch: Pizza\, Ch Galaxy (vegetarian) / Falafel Wrap (fresh\, halal
- \, & vegan)
-DESCRIPTION:\nPizza\, Ch Galaxy (vegetarian)\n    \n \n    \nFalafel Wrap
-  (fresh\, halal\, & vegan)\n    \n \n    \nOne breakfast is available to
-  all students at no cost. All meals are served with fruit variety and 1% l
- ow-fat or non-fat chocolate milk (soy milk available upon request). Studen
- ts must choose at least one fruit option. All grains offered are whole gra
- in rich. Menu subject to change based on product availability.\n    \nThis
-  institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3370359@www.sanjuan.edu
 DTSTAMP:20260717T000000Z
 DTSTART;VALUE=DATE:20260717
