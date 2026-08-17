@@ -8,22 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3370359@www.sanjuan.edu
-DTSTAMP:20260717T000000Z
-DTSTART;VALUE=DATE:20260717
-DTEND;VALUE=DATE:20260718
-SUMMARY:Lunch: Fish Sandwich (fresh) / Black Bean Burger (fresh & vegan)
-DESCRIPTION:\nFish Sandwich (fresh)\n    \n \n    \nBlack Bean Burger (fre
- sh & vegan)\n    \n \n    \nOne breakfast is available to all students a
- t no cost. All meals are served with fruit variety and 1% low-fat or non-f
- at chocolate milk (soy milk available upon request). Students must choose 
- at least one fruit option. All grains offered are whole grain rich. Menu s
- ubject to change based on product availability.\n    \nThis institution is
-  an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412038@www.sanjuan.edu
 DTSTAMP:20260812T000000Z
 DTSTART;VALUE=DATE:20260812
