@@ -244,4 +244,358 @@ DESCRIPTION:\nBiscuit w Gravy\, Sausage (fresh)\n    \n \n    \nBiscuit w
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
+BEGIN:VEVENT
+UID:3426960@www.sanjuan.edu
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Breakfast: Egg Bake Burrito (fresh) / Dip N Crunch Pack (fresh) / C
+ ereal Variety
+DESCRIPTION:\nEgg Bake Burrito (fresh)\n    \n \n    \nDip N Crunch Pack (
+ fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is a
+ vailable to all students at no cost. All meals are served with fruit varie
+ ty and 1% low-fat or non-fat chocolate milk (soy milk available upon reque
+ st). Students must choose at least one fruit option. All grains offered ar
+ e whole grain rich. Menu subject to change based on product availability.\
+ n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426961@www.sanjuan.edu
+DTSTAMP:20260902T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:Breakfast: Turkey Ham Croissant / Cocoa Berry Oats (fresh) / Cereal
+  Variety
+DESCRIPTION:\nTurkey Ham Croissant\n    \n \n    \nCocoa Berry Oats (fresh
+ )\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is availa
+ ble to all students at no cost. All meals are served with fruit variety an
+ d 1% low-fat or non-fat chocolate milk (soy milk available upon request). 
+ Students must choose at least one fruit option. All grains offered are who
+ le grain rich. Menu subject to change based on product availability.\n    
+ \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426962@www.sanjuan.edu
+DTSTAMP:20260903T000000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Breakfast: Pancakes w Berry Blend (fresh) / Banana Bread Slice / Ce
+ real Variety
+DESCRIPTION:\nPancakes w Berry Blend (fresh)\n    \n \n    \nBanana Bread 
+ Slice\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is av
+ ailable to all students at no cost. All meals are served with fruit variet
+ y and 1% low-fat or non-fat chocolate milk (soy milk available upon reques
+ t). Students must choose at least one fruit option. All grains offered are
+  whole grain rich. Menu subject to change based on product availability.\n
+     \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426963@www.sanjuan.edu
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Breakfast: Pan Dulce / Cocoa Berry Oats (fresh) / Cereal Variety
+DESCRIPTION:\nPan Dulce\n    \n \n    \nCocoa Berry Oats (fresh)\n    \n 
+ \n    \nCereal Variety\n    \n \n    \nOne breakfast is available to all 
+ students at no cost. All meals are served with fruit variety and 1% low-fa
+ t or non-fat chocolate milk (soy milk available upon request). Students mu
+ st choose at least one fruit option. All grains offered are whole grain ri
+ ch. Menu subject to change based on product availability.\n    \nThis inst
+ itution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426964@www.sanjuan.edu
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Breakfast: Chorizo Cheese Pizza / Cereal Variety
+DESCRIPTION:\nChorizo Cheese Pizza\n    \n \n    \nCereal Variety\n    \n
+  \n    \nOne breakfast is available to all students at no cost. All meals
+  are served with fruit variety and 1% low-fat or non-fat chocolate milk (s
+ oy milk available upon request). Students must choose at least one fruit o
+ ption. All grains offered are whole grain rich. Menu subject to change bas
+ ed on product availability.\n    \nThis institution is an equal opportunit
+ y provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426965@www.sanjuan.edu
+DTSTAMP:20260909T000000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:Breakfast: Pancakes w Berry Blend (fresh) / Banana Bread Slice / Ce
+ real Variety
+DESCRIPTION:\nPancakes w Berry Blend (fresh)\n    \n \n    \nBanana Bread 
+ Slice\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is av
+ ailable to all students at no cost. All meals are served with fruit variet
+ y and 1% low-fat or non-fat chocolate milk (soy milk available upon reques
+ t). Students must choose at least one fruit option. All grains offered are
+  whole grain rich. Menu subject to change based on product availability.\n
+     \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426966@www.sanjuan.edu
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Breakfast: Fresh Baked Mini Loaf (fresh) / Dip N Crunch Pack (fresh
+ ) / Cereal Variety
+DESCRIPTION:\nFresh Baked Mini Loaf (fresh)\n    \n \n    \nDip N Crunch P
+ ack (fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast
+  is available to all students at no cost. All meals are served with fruit 
+ variety and 1% low-fat or non-fat chocolate milk (soy milk available upon 
+ request). Students must choose at least one fruit option. All grains offer
+ ed are whole grain rich. Menu subject to change based on product availabil
+ ity.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426967@www.sanjuan.edu
+DTSTAMP:20260911T000000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Breakfast: Egg Bake Burrito (fresh) / Cocoa Berry Oats (fresh) / Ce
+ real Variety
+DESCRIPTION:\nEgg Bake Burrito (fresh)\n    \n \n    \nCocoa Berry Oats (f
+ resh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is av
+ ailable to all students at no cost. All meals are served with fruit variet
+ y and 1% low-fat or non-fat chocolate milk (soy milk available upon reques
+ t). Students must choose at least one fruit option. All grains offered are
+  whole grain rich. Menu subject to change based on product availability.\n
+     \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426970@www.sanjuan.edu
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:Breakfast: Chorizo Cheese Pizza / Bagel w Jalapeno Cream Ch / Cerea
+ l Variety
+DESCRIPTION:\nChorizo Cheese Pizza\n    \n \n    \nBagel w Jalapeno Cream 
+ Ch\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is avail
+ able to all students at no cost. All meals are served with fruit variety a
+ nd 1% low-fat or non-fat chocolate milk (soy milk available upon request).
+  Students must choose at least one fruit option. All grains offered are wh
+ ole grain rich. Menu subject to change based on product availability.\n   
+  \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426972@www.sanjuan.edu
+DTSTAMP:20260915T000000Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Breakfast: Biscuit w Gravy\, Sausage (fresh) / Biscuit w Gravy (fre
+ sh) / Cereal Variety
+DESCRIPTION:\nBiscuit w Gravy\, Sausage (fresh)\n    \n \n    \nBiscuit w 
+ Gravy (fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfa
+ st is available to all students at no cost. All meals are served with frui
+ t variety and 1% low-fat or non-fat chocolate milk (soy milk available upo
+ n request). Students must choose at least one fruit option. All grains off
+ ered are whole grain rich. Menu subject to change based on product availab
+ ility.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426973@www.sanjuan.edu
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:Breakfast: Pancakes w Berry Blend (fresh) / Dip N Crunch Pack (fres
+ h) / Cereal Variety
+DESCRIPTION:\nPancakes w Berry Blend (fresh)\n    \n \n    \nDip N Crunch 
+ Pack (fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfas
+ t is available to all students at no cost. All meals are served with fruit
+  variety and 1% low-fat or non-fat chocolate milk (soy milk available upon
+  request). Students must choose at least one fruit option. All grains offe
+ red are whole grain rich. Menu subject to change based on product availabi
+ lity.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426976@www.sanjuan.edu
+DTSTAMP:20260917T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Breakfast: Egg Bake Burrito (fresh) / Cocoa Berry Oats (fresh) / Ce
+ real Variety
+DESCRIPTION:\nEgg Bake Burrito (fresh)\n    \n \n    \nCocoa Berry Oats (f
+ resh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is av
+ ailable to all students at no cost. All meals are served with fruit variet
+ y and 1% low-fat or non-fat chocolate milk (soy milk available upon reques
+ t). Students must choose at least one fruit option. All grains offered are
+  whole grain rich. Menu subject to change based on product availability.\n
+     \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426977@www.sanjuan.edu
+DTSTAMP:20260918T000000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Breakfast: Fresh Baked Mini Loaf (fresh) / Pan Dulce / Cereal Varie
+ ty
+DESCRIPTION:\nFresh Baked Mini Loaf (fresh)\n    \n \n    \nPan Dulce\n   
+  \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is available to
+  all students at no cost. All meals are served with fruit variety and 1% l
+ ow-fat or non-fat chocolate milk (soy milk available upon request). Studen
+ ts must choose at least one fruit option. All grains offered are whole gra
+ in rich. Menu subject to change based on product availability.\n    \nThis
+  institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426980@www.sanjuan.edu
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:Breakfast: Biscuit w Gravy\, Sausage (fresh) / Biscuit w Gravy (fre
+ sh) / Cereal Variety
+DESCRIPTION:\nBiscuit w Gravy\, Sausage (fresh)\n    \n \n    \nBiscuit w 
+ Gravy (fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfa
+ st is available to all students at no cost. All meals are served with frui
+ t variety and 1% low-fat or non-fat chocolate milk (soy milk available upo
+ n request). Students must choose at least one fruit option. All grains off
+ ered are whole grain rich. Menu subject to change based on product availab
+ ility.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426981@www.sanjuan.edu
+DTSTAMP:20260922T000000Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Breakfast: Egg Bake Burrito (fresh) / Dip n Crunch Pack (fresh) / C
+ ereal Variety
+DESCRIPTION:\nEgg Bake Burrito (fresh)\n    \n \n    \nDip n Crunch Pack (
+ fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is a
+ vailable to all students at no cost. All meals are served with fruit varie
+ ty and 1% low-fat or non-fat chocolate milk (soy milk available upon reque
+ st). Students must choose at least one fruit option. All grains offered ar
+ e whole grain rich. Menu subject to change based on product availability.\
+ n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426982@www.sanjuan.edu
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:Breakfast: Turkey Ham Croissant / Cocoa Berry Oats (fresh) / Cereal
+  Variety
+DESCRIPTION:\nTurkey Ham Croissant\n    \n \n    \nCocoa Berry Oats (fresh
+ )\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is availa
+ ble to all students at no cost. All meals are served with fruit variety an
+ d 1% low-fat or non-fat chocolate milk (soy milk available upon request). 
+ Students must choose at least one fruit option. All grains offered are who
+ le grain rich. Menu subject to change based on product availability.\n    
+ \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426983@www.sanjuan.edu
+DTSTAMP:20260924T000000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Breakfast: Pancakes w Berry Blend (fresh) / Banana Bread Slice / Ce
+ real Variety
+DESCRIPTION:\nPancakes w Berry Blend (fresh)\n    \n \n    \nBanana Bread 
+ Slice\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is av
+ ailable to all students at no cost. All meals are served with fruit variet
+ y and 1% low-fat or non-fat chocolate milk (soy milk available upon reques
+ t). Students must choose at least one fruit option. All grains offered are
+  whole grain rich. Menu subject to change based on product availability.\n
+     \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426984@www.sanjuan.edu
+DTSTAMP:20260925T000000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Breakfast: Pan Dulce / Cocoa Berry Oats (fresh) / Cereal Variety
+DESCRIPTION:\nPan Dulce\n    \n \n    \nCocoa Berry Oats (fresh)\n    \n 
+ \n    \nCereal Variety\n    \n \n    \nOne breakfast is available to all 
+ students at no cost. All meals are served with fruit variety and 1% low-fa
+ t or non-fat chocolate milk (soy milk available upon request). Students mu
+ st choose at least one fruit option. All grains offered are whole grain ri
+ ch. Menu subject to change based on product availability.\n    \nThis inst
+ itution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426985@www.sanjuan.edu
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:Breakfast: Chorizo Cheese Pizza / Bagel w Jalapeno Cream Ch / Cerea
+ l Variety
+DESCRIPTION:\nChorizo Cheese Pizza\n    \n \n    \nBagel w Jalapeno Cream 
+ Ch\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is avail
+ able to all students at no cost. All meals are served with fruit variety a
+ nd 1% low-fat or non-fat chocolate milk (soy milk available upon request).
+  Students must choose at least one fruit option. All grains offered are wh
+ ole grain rich. Menu subject to change based on product availability.\n   
+  \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426986@www.sanjuan.edu
+DTSTAMP:20260929T000000Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Breakfast: Pancakes w Berry Blend (fresh) / Cocoa Berry Oats (fresh
+ ) / Cereal Variety
+DESCRIPTION:\nPancakes w Berry Blend (fresh)\n    \n \n    \nCocoa Berry O
+ ats (fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast
+  is available to all students at no cost. All meals are served with fruit 
+ variety and 1% low-fat or non-fat chocolate milk (soy milk available upon 
+ request). Students must choose at least one fruit option. All grains offer
+ ed are whole grain rich. Menu subject to change based on product availabil
+ ity.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3426987@www.sanjuan.edu
+DTSTAMP:20260930T000000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:Breakfast: Turkey Ham Croissant / Banana Bread Slice / Cereal Varie
+ ty
+DESCRIPTION:\nTurkey Ham Croissant\n    \n \n    \nBanana Bread Slice\n   
+  \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is available to
+  all students at no cost. All meals are served with fruit variety and 1% l
+ ow-fat or non-fat chocolate milk (soy milk available upon request). Studen
+ ts must choose at least one fruit option. All grains offered are whole gra
+ in rich. Menu subject to change based on product availability.\n    \nThis
+  institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR
