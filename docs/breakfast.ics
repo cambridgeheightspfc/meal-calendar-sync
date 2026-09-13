@@ -8,23 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412025@www.sanjuan.edu
-DTSTAMP:20260813T000000Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:Breakfast: Pancakes w Berry Blend (fresh) / Banana Bread Slice / Ce
- real Variety
-DESCRIPTION:\nPancakes w Berry Blend (fresh)\n    \n \n    \nBanana Bread 
- Slice\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is av
- ailable to all students at no cost. All meals are served with fruit variet
- y and 1% low-fat or non-fat chocolate milk (soy milk available upon reques
- t). Students must choose at least one fruit option. All grains offered are
-  whole grain rich. Menu subject to change based on product availability.\n
-     \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412026@www.sanjuan.edu
 DTSTAMP:20260814T000000Z
 DTSTART;VALUE=DATE:20260814
