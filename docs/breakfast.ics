@@ -8,22 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412026@www.sanjuan.edu
-DTSTAMP:20260814T000000Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:Breakfast: Pan Dulce / Cocoa Berry Oats (fresh) / Cereal Variety
-DESCRIPTION:\nPan Dulce\n    \n \n    \nCocoa Berry Oats (fresh)\n    \n 
- \n    \nCereal Variety\n    \n \n    \nOne breakfast is available to all 
- students at no cost. All meals are served with fruit variety and 1% low-fa
- t or non-fat chocolate milk (soy milk available upon request). Students mu
- st choose at least one fruit option. All grains offered are whole grain ri
- ch. Menu subject to change based on product availability.\n    \nThis inst
- itution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412027@www.sanjuan.edu
 DTSTAMP:20260817T000000Z
 DTSTART;VALUE=DATE:20260817

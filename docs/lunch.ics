@@ -8,22 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412040@www.sanjuan.edu
-DTSTAMP:20260814T000000Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:Lunch: Fish Tacos (fresh) / Grilled Cheese Sandwich (vegetarian)
-DESCRIPTION:\nFish Tacos (fresh)\n    \n \n    \nGrilled Cheese Sandwich (
- vegetarian)\n    \n \n    \nOne breakfast is available to all students at
-  no cost. All meals are served with fruit variety and 1% low-fat or non-fa
- t chocolate milk (soy milk available upon request). Students must choose a
- t least one fruit option. All grains offered are whole grain rich. Menu su
- bject to change based on product availability.\n    \nThis institution is 
- an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412041@www.sanjuan.edu
 DTSTAMP:20260817T000000Z
 DTSTART;VALUE=DATE:20260817
