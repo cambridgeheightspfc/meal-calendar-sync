@@ -8,23 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412028@www.sanjuan.edu
-DTSTAMP:20260818T000000Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:Breakfast: Pancake w Berry Blend (fresh) / Cocoa Berry Oats (fresh)
-  / Cereal Variety
-DESCRIPTION:\nPancake w Berry Blend (fresh)\n    \n \n    \nCocoa Berry Oa
- ts (fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast 
- is available to all students at no cost. All meals are served with fruit v
- ariety and 1% low-fat or non-fat chocolate milk (soy milk available upon r
- equest). Students must choose at least one fruit option. All grains offere
- d are whole grain rich. Menu subject to change based on product availabili
- ty.\n    \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412029@www.sanjuan.edu
 DTSTAMP:20260819T000000Z
 DTSTART;VALUE=DATE:20260819

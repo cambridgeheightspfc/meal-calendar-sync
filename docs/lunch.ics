@@ -8,23 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412042@www.sanjuan.edu
-DTSTAMP:20260818T000000Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:Lunch: Turkey Corn Dog / Pupusa\, Bean & Ch w Salsa (vegetarian) / 
- Protein Box (fresh)
-DESCRIPTION:\nTurkey Corn Dog\n    \n \n    \nPupusa\, Bean & Ch w Salsa (
- vegetarian)\n    \n \n    \nProtein Box (fresh)\n    \n \n    \nOne brea
- kfast is available to all students at no cost. All meals are served with f
- ruit variety and 1% low-fat or non-fat chocolate milk (soy milk available 
- upon request). Students must choose at least one fruit option. All grains 
- offered are whole grain rich. Menu subject to change based on product avai
- lability.\n    \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412043@www.sanjuan.edu
 DTSTAMP:20260819T000000Z
 DTSTART;VALUE=DATE:20260819
