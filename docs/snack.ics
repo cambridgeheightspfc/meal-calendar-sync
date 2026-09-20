@@ -8,21 +8,6 @@ NAME:School Snack
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412057@www.sanjuan.edu
-DTSTAMP:20260820T000000Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:Snack: Burrito\, Bean & Ch (halal)
-DESCRIPTION:\nBurrito\, Bean & Ch (halal)\n    \n \n    \nOne breakfast is
-  available to all students at no cost. All meals are served with fruit var
- iety and 1% low-fat or non-fat chocolate milk (soy milk available upon req
- uest). Students must choose at least one fruit option. All grains offered 
- are whole grain rich. Menu subject to change based on product availability
- .\n    \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412058@www.sanjuan.edu
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821

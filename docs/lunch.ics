@@ -8,24 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412044@www.sanjuan.edu
-DTSTAMP:20260820T000000Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:Lunch: Turkey Sloppy Sub (fresh) / Falafel Wrap (fresh\, halal\, & 
- vegan) / Protein Box (fresh)
-DESCRIPTION:\nTurkey Sloppy Sub (fresh)\n    \n \n    \nFalafel Wrap (fre
- sh\, halal\, & vegan)\n    \n \n    \nProtein Box (fresh)\n    \n \n    
- \nOne breakfast is available to all students at no cost. All meals are ser
- ved with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk 
- available upon request). Students must choose at least one fruit option. A
- ll grains offered are whole grain rich. Menu subject to change based on pr
- oduct availability.\n    \nThis institution is an equal opportunity provid
- er.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412045@www.sanjuan.edu
 DTSTAMP:20260821T000000Z
 DTSTART;VALUE=DATE:20260821
