@@ -8,23 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412031@www.sanjuan.edu
-DTSTAMP:20260821T000000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:Breakfast: Egg Bake Burrito (fresh) / Cocoa Berry Oats (fresh) / Ce
- real Variety
-DESCRIPTION:\nEgg Bake Burrito (fresh)\n    \n \n    \nCocoa Berry Oats (f
- resh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is av
- ailable to all students at no cost. All meals are served with fruit variet
- y and 1% low-fat or non-fat chocolate milk (soy milk available upon reques
- t). Students must choose at least one fruit option. All grains offered are
-  whole grain rich. Menu subject to change based on product availability.\n
-     \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412032@www.sanjuan.edu
 DTSTAMP:20260824T000000Z
 DTSTART;VALUE=DATE:20260824
