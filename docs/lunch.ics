@@ -466,4 +466,386 @@ DESCRIPTION:\nOrange Chicken w Fr Rice (fresh)\n    \n \n    \nBurrito\, B
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
+BEGIN:VEVENT
+UID:3438459@www.sanjuan.edu
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Lunch: Turkey Sloppy Sub (fresh) / Falafel Wrap (fresh\, halal\, & 
+ vegan) / Protein Box
+DESCRIPTION:\nTurkey Sloppy Sub (fresh)\n    \n \n    \nFalafel Wrap (fre
+ sh\, halal\, & vegan)\n    \n \n    \nProtein Box\n    \n \n    \nOne br
+ eakfast is available to all students at no cost. All meals are served with
+  fruit variety and 1% low-fat or non-fat chocolate milk (soy milk availabl
+ e upon request). Students must choose at least one fruit option. All grain
+ s offered are whole grain rich. Menu subject to change based on product av
+ ailability.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438460@www.sanjuan.edu
+DTSTAMP:20261002T000000Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Lunch: Fish Tacos (fresh) / Grilled Cheese Sandwich (vegetarian)
+DESCRIPTION:\nFish Tacos (fresh)\n    \n \n    \nGrilled Cheese Sandwich (
+ vegetarian)\n    \n \n    \nOne breakfast is available to all students at
+  no cost. All meals are served with fruit variety and 1% low-fat or non-fa
+ t chocolate milk (soy milk available upon request). Students must choose a
+ t least one fruit option. All grains offered are whole grain rich. Menu su
+ bject to change based on product availability.\n    \nThis institution is 
+ an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438461@www.sanjuan.edu
+DTSTAMP:20261005T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:Lunch: Chicken Quesadilla w Salsa (fresh) / Falafel Wrap (fresh\, h
+ alal\, & vegan)
+DESCRIPTION:\nChicken Quesadilla w Salsa (fresh)\n    \n \n    \nFalafel W
+ rap (fresh\, halal\, & vegan)\n    \n \n    \nOne breakfast is available 
+ to all students at no cost. All meals are served with fruit variety and 1%
+  low-fat or non-fat chocolate milk (soy milk available upon request). Stud
+ ents must choose at least one fruit option. All grains offered are whole g
+ rain rich. Menu subject to change based on product availability.\n    \nTh
+ is institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438462@www.sanjuan.edu
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Lunch: Teriyaki Beef Rice Bowl (beef & fresh) / Pupusa\, Bean & Ch 
+ w Salsa (fresh & vegetarian) / Protein Box
+DESCRIPTION:\nTeriyaki Beef Rice Bowl (beef & fresh)\n    \n \n    \nPupus
+ a\, Bean & Ch w Salsa (fresh & vegetarian)\n    \n \n    \nProtein Box\n 
+    \n \n    \nOne breakfast is available to all students at no cost. All 
+ meals are served with fruit variety and 1% low-fat or non-fat chocolate mi
+ lk (soy milk available upon request). Students must choose at least one fr
+ uit option. All grains offered are whole grain rich. Menu subject to chang
+ e based on product availability.\n    \nThis institution is an equal oppor
+ tunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438463@www.sanjuan.edu
+DTSTAMP:20261007T000000Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:Lunch: Chicken Tenders w Mini Bun / Burrito\, Bean & Cheese (vegeta
+ rian & halal) / Bento Box
+DESCRIPTION:\nChicken Tenders w Mini Bun\n    \n \n    \nBurrito\, Bean & 
+ Cheese (vegetarian & halal)\n    \n \n    \nBento Box\n    \n \n    \nOn
+ e breakfast is available to all students at no cost. All meals are served 
+ with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk avai
+ lable upon request). Students must choose at least one fruit option. All g
+ rains offered are whole grain rich. Menu subject to change based on produc
+ t availability.\n    \nThis institution is an equal opportunity provider.\
+ n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438464@www.sanjuan.edu
+DTSTAMP:20261008T000000Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Lunch: Smashed Cheeseburger (beef & fresh) / Pizza\, Ch Galaxy (veg
+ etarian) / Protein Box
+DESCRIPTION:\nSmashed Cheeseburger (beef & fresh)\n    \n \n    \nPizza\, 
+ Ch Galaxy (vegetarian)\n    \n \n    \nProtein Box\n    \n \n    \nOne b
+ reakfast is available to all students at no cost. All meals are served wit
+ h fruit variety and 1% low-fat or non-fat chocolate milk (soy milk availab
+ le upon request). Students must choose at least one fruit option. All grai
+ ns offered are whole grain rich. Menu subject to change based on product a
+ vailability.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438465@www.sanjuan.edu
+DTSTAMP:20261009T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Lunch: Crunchy Fish\, Slaw Sandwich (fresh) / Black Bean Burger (fr
+ esh & vegan) / Bento Box
+DESCRIPTION:\nCrunchy Fish\, Slaw Sandwich (fresh)\n    \n \n    \nBlack B
+ ean Burger (fresh & vegan)\n    \n \n    \nBento Box \n    \n \n    \nO
+ ne breakfast is available to all students at no cost. All meals are served
+  with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk ava
+ ilable upon request). Students must choose at least one fruit option. All 
+ grains offered are whole grain rich. Menu subject to change based on produ
+ ct availability.\n    \nThis institution is an equal opportunity provider.
+ \n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438466@www.sanjuan.edu
+DTSTAMP:20261012T000000Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:Lunch: Beef & Cheese Taco / Pupusa\, Bean & Ch w Salsa (fresh & veg
+ etarian)
+DESCRIPTION:\nBeef & Cheese Taco\n    \n \n    \nPupusa\, Bean & Ch w Sals
+ a (fresh & vegetarian)\n    \n \n    \nOne breakfast is available to all 
+ students at no cost. All meals are served with fruit variety and 1% low-fa
+ t or non-fat chocolate milk (soy milk available upon request). Students mu
+ st choose at least one fruit option. All grains offered are whole grain ri
+ ch. Menu subject to change based on product availability.\n    \nThis inst
+ itution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438467@www.sanjuan.edu
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Lunch: Chicken Tenders w Mini Bun / Burrito\, Bean & Cheese (vegeta
+ rian & halal) / Protein Box
+DESCRIPTION:\nChicken Tenders w Mini Bun\n    \n \n    \nBurrito\, Bean & 
+ Cheese (vegetarian & halal)\n    \n \n    \nProtein Box\n    \n \n    \n
+ One breakfast is available to all students at no cost. All meals are serve
+ d with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk av
+ ailable upon request). Students must choose at least one fruit option. All
+  grains offered are whole grain rich. Menu subject to change based on prod
+ uct availability.\n    \nThis institution is an equal opportunity provider
+ .\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438468@www.sanjuan.edu
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Lunch: Homestyle Turkey Bowl (fresh) / Black Bean Burger (fresh & v
+ egan) / Bento Box
+DESCRIPTION:\nHomestyle Turkey Bowl (fresh)\n    \n \n    \nBlack Bean Bur
+ ger (fresh & vegan)\n    \n \n    \nBento Box\n    \n \n    \nOne breakf
+ ast is available to all students at no cost. All meals are served with fru
+ it variety and 1% low-fat or non-fat chocolate milk (soy milk available up
+ on request). Students must choose at least one fruit option. All grains of
+ fered are whole grain rich. Menu subject to change based on product availa
+ bility.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438469@www.sanjuan.edu
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Lunch: Teriyaki Beef Rice Bowl (beef & fresh) / Falafel Wrap (fresh
+ \, halal\, & vegan) / Protein Box
+DESCRIPTION:\nTeriyaki Beef Rice Bowl (beef & fresh)\n    \n \n    \nFala
+ fel Wrap (fresh\, halal\, & vegan)\n    \n \n    \nProtein Box\n    \n \
+ n    \nOne breakfast is available to all students at no cost. All meals ar
+ e served with fruit variety and 1% low-fat or non-fat chocolate milk (soy 
+ milk available upon request). Students must choose at least one fruit opti
+ on. All grains offered are whole grain rich. Menu subject to change based 
+ on product availability.\n    \nThis institution is an equal opportunity p
+ rovider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438470@www.sanjuan.edu
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Lunch: Crunchy Fish\, Slaw Sandwich (fresh) / Grilled Cheese Sandwi
+ ch (vegetarian) / Bento Box
+DESCRIPTION:\nCrunchy Fish\, Slaw Sandwich (fresh)\n    \n \n    \nGrille
+ d Cheese Sandwich (vegetarian)\n    \n \n    \nBento Box\n    \n \n    \
+ nOne breakfast is available to all students at no cost. All meals are serv
+ ed with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk a
+ vailable upon request). Students must choose at least one fruit option. Al
+ l grains offered are whole grain rich. Menu subject to change based on pro
+ duct availability.\n    \nThis institution is an equal opportunity provide
+ r.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438471@www.sanjuan.edu
+DTSTAMP:20261019T000000Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Lunch: Chicken Tenders w Mini Bun / Burrito\, Bean & Cheese (vegeta
+ rian & halal)
+DESCRIPTION:\nChicken Tenders w Mini Bun\n    \n \n    \nBurrito\, Bean & 
+ Cheese (vegetarian & halal)\n    \n \n    \nOne breakfast is available to
+  all students at no cost. All meals are served with fruit variety and 1% l
+ ow-fat or non-fat chocolate milk (soy milk available upon request). Studen
+ ts must choose at least one fruit option. All grains offered are whole gra
+ in rich. Menu subject to change based on product availability.\n    \nThis
+  institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438472@www.sanjuan.edu
+DTSTAMP:20261020T000000Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Lunch: Beef & Cheese Taco (beef) / Falafel Wrap (fresh\, halal\, ve
+ gan) / Protein Box
+DESCRIPTION:\nBeef & Cheese Taco (beef)\n    \n \n    \nFalafel Wrap (fres
+ h\, halal\, vegan)\n    \n \n    \nProtein Box\n    \n \n    \nOne break
+ fast is available to all students at no cost. All meals are served with fr
+ uit variety and 1% low-fat or non-fat chocolate milk (soy milk available u
+ pon request). Students must choose at least one fruit option. All grains o
+ ffered are whole grain rich. Menu subject to change based on product avail
+ ability.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438473@www.sanjuan.edu
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:Lunch: Homestyle Turkey Bowl (fresh) / Pizza\, Ch Galaxy (vegetaria
+ n) / Bento Box
+DESCRIPTION:\nHomestyle Turkey Bowl (fresh)\n    \n \n    \nPizza\, Ch Gal
+ axy (vegetarian)\n    \n \n    \nBento Box\n    \n \n    \nOne breakfast
+  is available to all students at no cost. All meals are served with fruit 
+ variety and 1% low-fat or non-fat chocolate milk (soy milk available upon 
+ request). Students must choose at least one fruit option. All grains offer
+ ed are whole grain rich. Menu subject to change based on product availabil
+ ity.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438474@www.sanjuan.edu
+DTSTAMP:20261022T000000Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Lunch: Smashed Cheeseburger (beef & fresh) / Black Bean Burger (fre
+ sh & vegan) / Protein Box
+DESCRIPTION:\nSmashed Cheeseburger (beef & fresh)\n    \n \n    \nBlack Be
+ an Burger (fresh & vegan)\n    \n \n    \nProtein Box\n    \n \n    \nOn
+ e breakfast is available to all students at no cost. All meals are served 
+ with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk avai
+ lable upon request). Students must choose at least one fruit option. All g
+ rains offered are whole grain rich. Menu subject to change based on produc
+ t availability.\n    \nThis institution is an equal opportunity provider.\
+ n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438475@www.sanjuan.edu
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Lunch: Crunchy Fish\, Slaw Sandwich (fresh) / Grilled Cheese Sandwi
+ ch (vegetarian) / Bento Box
+DESCRIPTION:\nCrunchy Fish\, Slaw Sandwich (fresh)\n    \n \n    \nGrilled
+  Cheese Sandwich (vegetarian)\n    \n \n    \nBento Box\n    \nOne breakf
+ ast is available to all students at no cost. All meals are served with fru
+ it variety and 1% low-fat or non-fat chocolate milk (soy milk available up
+ on request). Students must choose at least one fruit option. All grains of
+ fered are whole grain rich. Menu subject to change based on product availa
+ bility.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438476@www.sanjuan.edu
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Lunch: Chicken Quesadilla w Salsa (fresh) / Falafel Wrap (fresh\, h
+ alal\, & vegan)
+DESCRIPTION:\nChicken Quesadilla w Salsa (fresh)\n    \n \n    \nFalafel W
+ rap (fresh\, halal\, & vegan)\n    \n \n    \nOne breakfast is available 
+ to all students at no cost. All meals are served with fruit variety and 1%
+  low-fat or non-fat chocolate milk (soy milk available upon request). Stud
+ ents must choose at least one fruit option. All grains offered are whole g
+ rain rich. Menu subject to change based on product availability.\n    \nTh
+ is institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438477@www.sanjuan.edu
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Lunch: Teriyaki Beef Rice Bowl (beef & fresh) / Pupusa\, Bean & Ch 
+ w Salsa (fresh & vegetarian) / Protein Box
+DESCRIPTION:\nTeriyaki Beef Rice Bowl (beef & fresh)\n    \n \n    \nPupus
+ a\, Bean & Ch w Salsa (fresh & vegetarian)\n    \n \n    \nProtein Box\n 
+    \n \n    \nOne breakfast is available to all students at no cost. All 
+ meals are served with fruit variety and 1% low-fat or non-fat chocolate mi
+ lk (soy milk available upon request). Students must choose at least one fr
+ uit option. All grains offered are whole grain rich. Menu subject to chang
+ e based on product availability.\n    \nThis institution is an equal oppor
+ tunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438478@www.sanjuan.edu
+DTSTAMP:20261028T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:Lunch: Chicken Tenders w Mini Bun / Burrito\, Bean & Cheese (vegeta
+ rian & halal) / Bento Box
+DESCRIPTION:\nChicken Tenders w Mini Bun\n    \n \n    \nBurrito\, Bean & 
+ Cheese (vegetarian & halal)\n    \n \n    \nBento Box\n    \n \n    \nOn
+ e breakfast is available to all students at no cost. All meals are served 
+ with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk avai
+ lable upon request). Students must choose at least one fruit option. All g
+ rains offered are whole grain rich. Menu subject to change based on produc
+ t availability.\n    \nThis institution is an equal opportunity provider.\
+ n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438479@www.sanjuan.edu
+DTSTAMP:20261029T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Lunch: Smashed Cheeseburger (beef & fresh) / Pizza\, Ch Galaxy (veg
+ etarian) / Protein Box
+DESCRIPTION:\nSmashed Cheeseburger (beef & fresh)\n    \n \n    \nPizza\, 
+ Ch Galaxy (vegetarian)\n    \n \n    \nProtein Box\n    \n \n    \nOne b
+ reakfast is available to all students at no cost. All meals are served wit
+ h fruit variety and 1% low-fat or non-fat chocolate milk (soy milk availab
+ le upon request). Students must choose at least one fruit option. All grai
+ ns offered are whole grain rich. Menu subject to change based on product a
+ vailability.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3438480@www.sanjuan.edu
+DTSTAMP:20261030T000000Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Lunch: Crunch Fish\, Slaw Sandwich (fresh) / Black Bean Burger (fre
+ sh & vegan) / Bento Box
+DESCRIPTION:\nCrunch Fish\, Slaw Sandwich (fresh)\n    \n \n    \nBlack Be
+ an Burger (fresh & vegan)\n    \n \n    \nBento Box\n    \n \n    \nOne 
+ breakfast is available to all students at no cost. All meals are served wi
+ th fruit variety and 1% low-fat or non-fat chocolate milk (soy milk availa
+ ble upon request). Students must choose at least one fruit option. All gra
+ ins offered are whole grain rich. Menu subject to change based on product 
+ availability.\n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR
