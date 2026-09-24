@@ -8,22 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412046@www.sanjuan.edu
-DTSTAMP:20260824T000000Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:Lunch: Chicken Quesadilla w Salsa / Pupusa\, Bean & Ch (vegetarian)
-DESCRIPTION:\nChicken Quesadilla w Salsa\n    \n \n    \nPupusa\, Bean & C
- h (vegetarian)\n    \n \n    \nOne breakfast is available to all student
- s at no cost. All meals are served with fruit variety and 1% low-fat or no
- n-fat chocolate milk (soy milk available upon request). Students must choo
- se at least one fruit option. All grains offered are whole grain rich. Men
- u subject to change based on product availability.\n    \nThis institution
-  is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412047@www.sanjuan.edu
 DTSTAMP:20260825T000000Z
 DTSTART;VALUE=DATE:20260825
@@ -539,16 +523,15 @@ UID:3438463@www.sanjuan.edu
 DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
-SUMMARY:Lunch: Chicken Tenders w Mini Bun / Burrito\, Bean & Cheese (vegeta
- rian & halal) / Bento Box
-DESCRIPTION:\nChicken Tenders w Mini Bun\n    \n \n    \nBurrito\, Bean & 
- Cheese (vegetarian & halal)\n    \n \n    \nBento Box\n    \n \n    \nOn
- e breakfast is available to all students at no cost. All meals are served 
- with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk avai
- lable upon request). Students must choose at least one fruit option. All g
- rains offered are whole grain rich. Menu subject to change based on produc
- t availability.\n    \nThis institution is an equal opportunity provider.\
- n
+SUMMARY:Lunch: Turkey Sloppy Sub (fresh) / Burrito\, Bean & Cheese (vegetar
+ ian & halal) / Bento Box
+DESCRIPTION:\nTurkey Sloppy Sub (fresh)\n    \n \n    \nBurrito\, Bean & C
+ heese (vegetarian & halal)\n    \n \n    \nBento Box\n    \n \n    \nOne
+  breakfast is available to all students at no cost. All meals are served w
+ ith fruit variety and 1% low-fat or non-fat chocolate milk (soy milk avail
+ able upon request). Students must choose at least one fruit option. All gr
+ ains offered are whole grain rich. Menu subject to change based on product
+  availability.\n    \nThis institution is an equal opportunity provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
