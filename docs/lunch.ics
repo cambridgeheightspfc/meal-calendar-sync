@@ -8,24 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412047@www.sanjuan.edu
-DTSTAMP:20260825T000000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:Lunch: Beef & Cheese Taco (beef) / Grilled Cheese Sandwich (vegetar
- ian) / Protein Box (fresh)
-DESCRIPTION:\nBeef & Cheese Taco (beef)\n    \n \n    \nGrilled Cheese San
- dwich (vegetarian)\n    \n \n    \nProtein Box (fresh)\n    \n \n    \nO
- ne breakfast is available to all students at no cost. All meals are served
-  with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk ava
- ilable upon request). Students must choose at least one fruit option. All 
- grains offered are whole grain rich. Menu subject to change based on produ
- ct availability.\n    \nThis institution is an equal opportunity provider.
- \n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412048@www.sanjuan.edu
 DTSTAMP:20260826T000000Z
 DTSTART;VALUE=DATE:20260826
@@ -592,16 +574,16 @@ UID:3438467@www.sanjuan.edu
 DTSTAMP:20261013T000000Z
 DTSTART;VALUE=DATE:20261013
 DTEND;VALUE=DATE:20261014
-SUMMARY:Lunch: Chicken Tenders w Mini Bun / Burrito\, Bean & Cheese (vegeta
- rian & halal) / Protein Box
-DESCRIPTION:\nChicken Tenders w Mini Bun\n    \n \n    \nBurrito\, Bean & 
- Cheese (vegetarian & halal)\n    \n \n    \nProtein Box\n    \n \n    \n
- One breakfast is available to all students at no cost. All meals are serve
- d with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk av
- ailable upon request). Students must choose at least one fruit option. All
-  grains offered are whole grain rich. Menu subject to change based on prod
- uct availability.\n    \nThis institution is an equal opportunity provider
- .\n
+SUMMARY:Lunch: Chicken Tenders w Mini Bun (halal) / Burrito\, Bean & Cheese
+  (vegetarian & halal) / Protein Box
+DESCRIPTION:\nChicken Tenders w Mini Bun (halal)\n    \n \n    \nBurrito\,
+  Bean & Cheese (vegetarian & halal)\n    \n \n    \nProtein Box\n    \n 
+ \n    \nOne breakfast is available to all students at no cost. All meals a
+ re served with fruit variety and 1% low-fat or non-fat chocolate milk (soy
+  milk available upon request). Students must choose at least one fruit opt
+ ion. All grains offered are whole grain rich. Menu subject to change based
+  on product availability.\n    \nThis institution is an equal opportunity 
+ provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -663,15 +645,15 @@ UID:3438471@www.sanjuan.edu
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
-SUMMARY:Lunch: Chicken Tenders w Mini Bun / Burrito\, Bean & Cheese (vegeta
- rian & halal)
-DESCRIPTION:\nChicken Tenders w Mini Bun\n    \n \n    \nBurrito\, Bean & 
- Cheese (vegetarian & halal)\n    \n \n    \nOne breakfast is available to
-  all students at no cost. All meals are served with fruit variety and 1% l
- ow-fat or non-fat chocolate milk (soy milk available upon request). Studen
- ts must choose at least one fruit option. All grains offered are whole gra
- in rich. Menu subject to change based on product availability.\n    \nThis
-  institution is an equal opportunity provider.\n
+SUMMARY:Lunch: Chicken Tenders w Mini Bun (halal) / Burrito\, Bean & Cheese
+  (vegetarian & halal)
+DESCRIPTION:\nChicken Tenders w Mini Bun (halal)\n    \n \n    \nBurrito\,
+  Bean & Cheese (vegetarian & halal)\n    \n \n    \nOne breakfast is avai
+ lable to all students at no cost. All meals are served with fruit variety 
+ and 1% low-fat or non-fat chocolate milk (soy milk available upon request)
+ . Students must choose at least one fruit option. All grains offered are w
+ hole grain rich. Menu subject to change based on product availability.\n  
+   \nThis institution is an equal opportunity provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -784,16 +766,16 @@ UID:3438478@www.sanjuan.edu
 DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
-SUMMARY:Lunch: Chicken Tenders w Mini Bun / Burrito\, Bean & Cheese (vegeta
- rian & halal) / Bento Box
-DESCRIPTION:\nChicken Tenders w Mini Bun\n    \n \n    \nBurrito\, Bean & 
- Cheese (vegetarian & halal)\n    \n \n    \nBento Box\n    \n \n    \nOn
- e breakfast is available to all students at no cost. All meals are served 
- with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk avai
- lable upon request). Students must choose at least one fruit option. All g
- rains offered are whole grain rich. Menu subject to change based on produc
- t availability.\n    \nThis institution is an equal opportunity provider.\
- n
+SUMMARY:Lunch: Chicken Tenders w Mini Bun (halal) / Burrito\, Bean & Cheese
+  (vegetarian & halal) / Bento Box
+DESCRIPTION:\nChicken Tenders w Mini Bun (halal)\n    \n \n    \nBurrito\,
+  Bean & Cheese (vegetarian & halal)\n    \n \n    \nBento Box\n    \n \n
+     \nOne breakfast is available to all students at no cost. All meals are
+  served with fruit variety and 1% low-fat or non-fat chocolate milk (soy m
+ ilk available upon request). Students must choose at least one fruit optio
+ n. All grains offered are whole grain rich. Menu subject to change based o
+ n product availability.\n    \nThis institution is an equal opportunity pr
+ ovider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
