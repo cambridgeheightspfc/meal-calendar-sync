@@ -8,23 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412034@www.sanjuan.edu
-DTSTAMP:20260826T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Breakfast: Pancakes w Berry Blend (fresh) / Dip N Crunch Pack (fres
- h) / Cereal Variety
-DESCRIPTION:\nPancakes w Berry Blend (fresh)\n    \n \n    \nDip N Crunch 
- Pack (fresh)\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfas
- t is available to all students at no cost. All meals are served with fruit
-  variety and 1% low-fat or non-fat chocolate milk (soy milk available upon
-  request). Students must choose at least one fruit option. All grains offe
- red are whole grain rich. Menu subject to change based on product availabi
- lity.\n    \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412035@www.sanjuan.edu
 DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827

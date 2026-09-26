@@ -8,23 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412048@www.sanjuan.edu
-DTSTAMP:20260826T000000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:Lunch: Chicken Patty Sandwich (fresh) / Falafel Wrap (fresh\, halal
- \, & vegan)
-DESCRIPTION:\nChicken Patty Sandwich (fresh)\n    \n \n    \nFalafel Wrap 
- (fresh\, halal\, & vegan)\n    \n \n    \nOne breakfast is available to a
- ll students at no cost. All meals are served with fruit variety and 1% low
- -fat or non-fat chocolate milk (soy milk available upon request). Students
-  must choose at least one fruit option. All grains offered are whole grain
-  rich. Menu subject to change based on product availability.\n    \nThis i
- nstitution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412049@www.sanjuan.edu
 DTSTAMP:20260827T000000Z
 DTSTART;VALUE=DATE:20260827
