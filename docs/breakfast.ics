@@ -8,23 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412036@www.sanjuan.edu
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:Breakfast: Fresh Baked Mini Loaf (fresh) / Pan Dulce / Cereal Varie
- ty
-DESCRIPTION:\nFresh Baked Mini Loaf (fresh)\n    \n \n    \nPan Dulce\n   
-  \n \n    \nCereal Variety\n    \n \n    \nOne breakfast is available to
-  all students at no cost. All meals are served with fruit variety and 1% l
- ow-fat or non-fat chocolate milk (soy milk available upon request). Studen
- ts must choose at least one fruit option. All grains offered are whole gra
- in rich. Menu subject to change based on product availability.\n    \nThis
-  institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412037@www.sanjuan.edu
 DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831

@@ -8,23 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412050@www.sanjuan.edu
-DTSTAMP:20260828T000000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:Lunch: Fish Tacos (fresh) / Burrito\, Bean & Cheese (vegetarian & h
- alal)
-DESCRIPTION:\nFish Tacos (fresh)\n    \n \n    \nBurrito\, Bean & Cheese (
- vegetarian & halal)\n    \n \n    \nOne breakfast is available to all stu
- dents at no cost. All meals are served with fruit variety and 1% low-fat o
- r non-fat chocolate milk (soy milk available upon request). Students must 
- choose at least one fruit option. All grains offered are whole grain rich.
-  Menu subject to change based on product availability.\n    \nThis institu
- tion is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3412051@www.sanjuan.edu
 DTSTAMP:20260831T000000Z
 DTSTART;VALUE=DATE:20260831
