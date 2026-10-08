@@ -8,91 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3412051@www.sanjuan.edu
-DTSTAMP:20260831T000000Z
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:Lunch: Turkey Corn Dog / Pizza\, Ch Galaxy (vegetarian)
-DESCRIPTION:\nTurkey Corn Dog\n    \n \n    \nPizza\, Ch Galaxy (vegetaria
- n)\n    \n \n    \nOne breakfast is available to all students at no cost.
-  All meals are served with fruit variety and 1% low-fat or non-fat chocola
- te milk (soy milk available upon request). Students must choose at least o
- ne fruit option. All grains offered are whole grain rich. Menu subject to 
- change based on product availability.\n    \nThis institution is an equal 
- opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:3426988@www.sanjuan.edu
-DTSTAMP:20260901T000000Z
-DTSTART;VALUE=DATE:20260901
-DTEND;VALUE=DATE:20260902
-SUMMARY:Lunch: Beef & Cheese Taco (beef) / Burrito\, Bean & Cheese (vegetar
- ian & halal) / Protein Box
-DESCRIPTION:\nBeef & Cheese Taco (beef)\n    \n \n    \nBurrito\, Bean & C
- heese (vegetarian & halal)\n    \n \n    \nProtein Box\n    \n \n    \n
- One breakfast is available to all students at no cost. All meals are serve
- d with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk av
- ailable upon request). Students must choose at least one fruit option. All
-  grains offered are whole grain rich. Menu subject to change based on prod
- uct availability.\n    \nThis institution is an equal opportunity provider
- .\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:3426989@www.sanjuan.edu
-DTSTAMP:20260902T000000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:Lunch: Orange Chicken w Fr Rice (fresh) / Falafel Wrap (fresh\, veg
- an\, & halal)
-DESCRIPTION:\nOrange Chicken w Fr Rice (fresh)\n    \n \n    \nFalafel Wra
- p (fresh\, vegan\, & halal)\n    \n \n    \nOne breakfast is available to
-  all students at no cost. All meals are served with fruit variety and 1% l
- ow-fat or non-fat chocolate milk (soy milk available upon request). Studen
- ts must choose at least one fruit option. All grains offered are whole gra
- in rich. Menu subject to change based on product availability.\n    \nThis
-  institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:3426990@www.sanjuan.edu
-DTSTAMP:20260903T000000Z
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:Lunch: Chicken Patty Sandwich (fresh) / Black Bean Burger (fresh an
- d vegan) / Protein Box (fresh)
-DESCRIPTION:\nChicken Patty Sandwich (fresh)\n    \n \n    \nBlack Bean Bu
- rger (fresh and vegan)\n    \n \n    \nProtein Box (fresh)\n    \n \n   
-  \nOne breakfast is available to all students at no cost. All meals are se
- rved with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk
-  available upon request). Students must choose at least one fruit option. 
- All grains offered are whole grain rich. Menu subject to change based on p
- roduct availability.\n    \nThis institution is an equal opportunity provi
- der.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
-UID:3426991@www.sanjuan.edu
-DTSTAMP:20260904T000000Z
-DTSTART;VALUE=DATE:20260904
-DTEND;VALUE=DATE:20260905
-SUMMARY:Lunch: Fish Tacos (fresh) / Grilled Cheese Sandwich (vegetarian)
-DESCRIPTION:\nFish Tacos (fresh)\n    \n \n    \nGrilled Cheese Sandwich 
- (vegetarian)\n    \n \n    \nOne breakfast is available to all students a
- t no cost. All meals are served with fruit variety and 1% low-fat or non-f
- at chocolate milk (soy milk available upon request). Students must choose 
- at least one fruit option. All grains offered are whole grain rich. Menu s
- ubject to change based on product availability.\n    \nThis institution is
-  an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3426992@www.sanjuan.edu
 DTSTAMP:20260908T000000Z
 DTSTART;VALUE=DATE:20260908
@@ -455,14 +370,15 @@ DTSTAMP:20261007T000000Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Lunch: Turkey Sloppy Sub (fresh) / Burrito\, Bean & Cheese (vegetar
- ian & halal) / Bento Box
+ ian & halal) / Bento Box (vegetarian)
 DESCRIPTION:\nTurkey Sloppy Sub (fresh)\n    \n \n    \nBurrito\, Bean & C
- heese (vegetarian & halal)\n    \n \n    \nBento Box\n    \n \n    \nOne
-  breakfast is available to all students at no cost. All meals are served w
- ith fruit variety and 1% low-fat or non-fat chocolate milk (soy milk avail
- able upon request). Students must choose at least one fruit option. All gr
- ains offered are whole grain rich. Menu subject to change based on product
-  availability.\n    \nThis institution is an equal opportunity provider.\n
+ heese (vegetarian & halal)\n    \n \n    \nBento Box (vegetarian)\n    \
+ n \n    \nOne breakfast is available to all students at no cost. All meal
+ s are served with fruit variety and 1% low-fat or non-fat chocolate milk (
+ soy milk available upon request). Students must choose at least one fruit 
+ option. All grains offered are whole grain rich. Menu subject to change ba
+ sed on product availability.\n    \nThis institution is an equal opportuni
+ ty provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -489,15 +405,15 @@ DTSTAMP:20261009T000000Z
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
 SUMMARY:Lunch: Crunchy Fish\, Slaw Sandwich (fresh) / Black Bean Burger (fr
- esh & vegan) / Bento Box
+ esh & vegan) / Bento Box (vegetarian)
 DESCRIPTION:\nCrunchy Fish\, Slaw Sandwich (fresh)\n    \n \n    \nBlack B
- ean Burger (fresh & vegan)\n    \n \n    \nBento Box \n    \n \n    \nO
- ne breakfast is available to all students at no cost. All meals are served
-  with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk ava
- ilable upon request). Students must choose at least one fruit option. All 
- grains offered are whole grain rich. Menu subject to change based on produ
- ct availability.\n    \nThis institution is an equal opportunity provider.
- \n
+ ean Burger (fresh & vegan)\n    \n \n    \nBento Box (vegetarian)\n    \n
+  \n    \nOne breakfast is available to all students at no cost. All meals
+  are served with fruit variety and 1% low-fat or non-fat chocolate milk (s
+ oy milk available upon request). Students must choose at least one fruit o
+ ption. All grains offered are whole grain rich. Menu subject to change bas
+ ed on product availability.\n    \nThis institution is an equal opportunit
+ y provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -542,14 +458,15 @@ DTSTAMP:20261014T000000Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Lunch: Homestyle Turkey Bowl (fresh) / Black Bean Burger (fresh & v
- egan) / Bento Box
+ egan) / Bento Box (vegetarian)
 DESCRIPTION:\nHomestyle Turkey Bowl (fresh)\n    \n \n    \nBlack Bean Bur
- ger (fresh & vegan)\n    \n \n    \nBento Box\n    \n \n    \nOne breakf
- ast is available to all students at no cost. All meals are served with fru
- it variety and 1% low-fat or non-fat chocolate milk (soy milk available up
- on request). Students must choose at least one fruit option. All grains of
- fered are whole grain rich. Menu subject to change based on product availa
- bility.\n    \nThis institution is an equal opportunity provider.\n
+ ger (fresh & vegan)\n    \n \n    \nBento Box (vegetarian)\n    \n \n  
+   \nOne breakfast is available to all students at no cost. All meals are s
+ erved with fruit variety and 1% low-fat or non-fat chocolate milk (soy mil
+ k available upon request). Students must choose at least one fruit option.
+  All grains offered are whole grain rich. Menu subject to change based on 
+ product availability.\n    \nThis institution is an equal opportunity prov
+ ider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -577,15 +494,15 @@ DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
 SUMMARY:Lunch: Crunchy Fish\, Slaw Sandwich (fresh) / Grilled Cheese Sandwi
- ch (vegetarian) / Bento Box
+ ch (vegetarian) / Bento Box (vegetarian)
 DESCRIPTION:\nCrunchy Fish\, Slaw Sandwich (fresh)\n    \n \n    \nGrille
- d Cheese Sandwich (vegetarian)\n    \n \n    \nBento Box\n    \n \n    \
- nOne breakfast is available to all students at no cost. All meals are serv
- ed with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk a
- vailable upon request). Students must choose at least one fruit option. Al
- l grains offered are whole grain rich. Menu subject to change based on pro
- duct availability.\n    \nThis institution is an equal opportunity provide
- r.\n
+ d Cheese Sandwich (vegetarian)\n    \n \n    \nBento Box (vegetarian)\n  
+   \n \n    \nOne breakfast is available to all students at no cost. All m
+ eals are served with fruit variety and 1% low-fat or non-fat chocolate mil
+ k (soy milk available upon request). Students must choose at least one fru
+ it option. All grains offered are whole grain rich. Menu subject to change
+  based on product availability.\n    \nThis institution is an equal opport
+ unity provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -629,14 +546,15 @@ DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Lunch: Homestyle Turkey Bowl (fresh) / Pizza\, Ch Galaxy (vegetaria
- n) / Bento Box
+ n) / Bento Box (vegetarian)
 DESCRIPTION:\nHomestyle Turkey Bowl (fresh)\n    \n \n    \nPizza\, Ch Gal
- axy (vegetarian)\n    \n \n    \nBento Box\n    \n \n    \nOne breakfast
-  is available to all students at no cost. All meals are served with fruit 
- variety and 1% low-fat or non-fat chocolate milk (soy milk available upon 
- request). Students must choose at least one fruit option. All grains offer
- ed are whole grain rich. Menu subject to change based on product availabil
- ity.\n    \nThis institution is an equal opportunity provider.\n
+ axy (vegetarian)\n    \n \n    \nBento Box (vegetarian)\n    \n \n    \
+ nOne breakfast is available to all students at no cost. All meals are serv
+ ed with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk a
+ vailable upon request). Students must choose at least one fruit option. Al
+ l grains offered are whole grain rich. Menu subject to change based on pro
+ duct availability.\n    \nThis institution is an equal opportunity provide
+ r.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -664,14 +582,15 @@ DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 SUMMARY:Lunch: Crunchy Fish\, Slaw Sandwich (fresh) / Grilled Cheese Sandwi
- ch (vegetarian) / Bento Box
+ ch (vegetarian) / Bento Box (vegetarian)
 DESCRIPTION:\nCrunchy Fish\, Slaw Sandwich (fresh)\n    \n \n    \nGrilled
-  Cheese Sandwich (vegetarian)\n    \n \n    \nBento Box\n    \nOne breakf
- ast is available to all students at no cost. All meals are served with fru
- it variety and 1% low-fat or non-fat chocolate milk (soy milk available up
- on request). Students must choose at least one fruit option. All grains of
- fered are whole grain rich. Menu subject to change based on product availa
- bility.\n    \nThis institution is an equal opportunity provider.\n
+  Cheese Sandwich (vegetarian)\n    \n \n    \nBento Box (vegetarian)\n  
+   \n \n    \nOne breakfast is available to all students at no cost. All m
+ eals are served with fruit variety and 1% low-fat or non-fat chocolate mil
+ k (soy milk available upon request). Students must choose at least one fru
+ it option. All grains offered are whole grain rich. Menu subject to change
+  based on product availability.\n    \nThis institution is an equal opport
+ unity provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -716,15 +635,15 @@ DTSTAMP:20261028T000000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Lunch: Chicken Tenders w Mini Bun (halal) / Burrito\, Bean & Cheese
-  (vegetarian & halal) / Bento Box
+  (vegetarian & halal) / Bento Box (vegetarian)
 DESCRIPTION:\nChicken Tenders w Mini Bun (halal)\n    \n \n    \nBurrito\,
-  Bean & Cheese (vegetarian & halal)\n    \n \n    \nBento Box\n    \n \n
-     \nOne breakfast is available to all students at no cost. All meals are
-  served with fruit variety and 1% low-fat or non-fat chocolate milk (soy m
- ilk available upon request). Students must choose at least one fruit optio
- n. All grains offered are whole grain rich. Menu subject to change based o
- n product availability.\n    \nThis institution is an equal opportunity pr
- ovider.\n
+  Bean & Cheese (vegetarian & halal)\n    \n \n    \nBento Box (vegetaria
+ n)\n    \n \n    \nOne breakfast is available to all students at no cost.
+  All meals are served with fruit variety and 1% low-fat or non-fat chocola
+ te milk (soy milk available upon request). Students must choose at least o
+ ne fruit option. All grains offered are whole grain rich. Menu subject to 
+ change based on product availability.\n    \nThis institution is an equal 
+ opportunity provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
@@ -751,14 +670,15 @@ DTSTAMP:20261030T000000Z
 DTSTART;VALUE=DATE:20261030
 DTEND;VALUE=DATE:20261031
 SUMMARY:Lunch: Crunch Fish\, Slaw Sandwich (fresh) / Black Bean Burger (fre
- sh & vegan) / Bento Box
+ sh & vegan) / Bento Box (vegetarian)
 DESCRIPTION:\nCrunch Fish\, Slaw Sandwich (fresh)\n    \n \n    \nBlack Be
- an Burger (fresh & vegan)\n    \n \n    \nBento Box\n    \n \n    \nOne 
- breakfast is available to all students at no cost. All meals are served wi
- th fruit variety and 1% low-fat or non-fat chocolate milk (soy milk availa
- ble upon request). Students must choose at least one fruit option. All gra
- ins offered are whole grain rich. Menu subject to change based on product 
- availability.\n    \nThis institution is an equal opportunity provider.\n
+ an Burger (fresh & vegan)\n    \n \n    \nBento Box (vegetarian)\n    \n
+  \n    \nOne breakfast is available to all students at no cost. All meals
+  are served with fruit variety and 1% low-fat or non-fat chocolate milk (s
+ oy milk available upon request). Students must choose at least one fruit o
+ ption. All grains offered are whole grain rich. Menu subject to change bas
+ ed on product availability.\n    \nThis institution is an equal opportunit
+ y provider.\n
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
