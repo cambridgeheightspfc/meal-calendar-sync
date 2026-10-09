@@ -8,22 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3426964@www.sanjuan.edu
-DTSTAMP:20260908T000000Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:Breakfast: Chorizo Cheese Pizza / Cereal Variety
-DESCRIPTION:\nChorizo Cheese Pizza\n    \n \n    \nCereal Variety\n    \n
-  \n    \nOne breakfast is available to all students at no cost. All meals
-  are served with fruit variety and 1% low-fat or non-fat chocolate milk (s
- oy milk available upon request). Students must choose at least one fruit o
- ption. All grains offered are whole grain rich. Menu subject to change bas
- ed on product availability.\n    \nThis institution is an equal opportunit
- y provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3426965@www.sanjuan.edu
 DTSTAMP:20260909T000000Z
 DTSTART;VALUE=DATE:20260909
