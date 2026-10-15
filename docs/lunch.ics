@@ -8,22 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3426996@www.sanjuan.edu
-DTSTAMP:20260914T000000Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:Lunch: Chicken Quesadilla w Salsa / Pupusa\, Bean & Ch (vegetarian)
-DESCRIPTION:\nChicken Quesadilla w Salsa\n    \n \n    \nPupusa\, Bean & C
- h (vegetarian)\n    \n \n    \nOne breakfast is available to all student
- s at no cost. All meals are served with fruit variety and 1% low-fat or no
- n-fat chocolate milk (soy milk available upon request). Students must choo
- se at least one fruit option. All grains offered are whole grain rich. Men
- u subject to change based on product availability.\n    \nThis institution
-  is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3426997@www.sanjuan.edu
 DTSTAMP:20260915T000000Z
 DTSTART;VALUE=DATE:20260915
