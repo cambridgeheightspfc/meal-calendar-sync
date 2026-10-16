@@ -8,24 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3426997@www.sanjuan.edu
-DTSTAMP:20260915T000000Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:Lunch: Beef & Cheese Taco (beef) / Grilled Cheese Sandwich (vegetar
- ian) / Protein Box (fresh)
-DESCRIPTION:\nBeef & Cheese Taco (beef)\n    \n \n    \nGrilled Cheese San
- dwich (vegetarian)\n    \n \n    \nProtein Box (fresh)\n    \n \n    \nO
- ne breakfast is available to all students at no cost. All meals are served
-  with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk ava
- ilable upon request). Students must choose at least one fruit option. All 
- grains offered are whole grain rich. Menu subject to change based on produ
- ct availability.\n    \nThis institution is an equal opportunity provider.
- \n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3426998@www.sanjuan.edu
 DTSTAMP:20260916T000000Z
 DTSTART;VALUE=DATE:20260916
