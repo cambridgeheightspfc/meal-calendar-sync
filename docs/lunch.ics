@@ -8,23 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3427003@www.sanjuan.edu
-DTSTAMP:20260923T000000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:Lunch: Orange Chicken w Fr Rice (fresh) / Falafel Wrap (fresh\, hal
- al\, and vegan)
-DESCRIPTION:\nOrange Chicken w Fr Rice (fresh)\n    \n \n    \nFalafel Wra
- p (fresh\, halal\, and vegan)\n    \n \n    \nOne breakfast is available 
- to all students at no cost. All meals are served with fruit variety and 1%
-  low-fat or non-fat chocolate milk (soy milk available upon request). Stud
- ents must choose at least one fruit option. All grains offered are whole g
- rain rich. Menu subject to change based on product availability.\n    \nTh
- is institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3427004@www.sanjuan.edu
 DTSTAMP:20260924T000000Z
 DTSTART;VALUE=DATE:20260924
