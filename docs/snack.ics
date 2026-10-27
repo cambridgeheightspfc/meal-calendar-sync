@@ -367,4 +367,199 @@ DESCRIPTION:\nBoiled Egg w/ Crackers\n    \n \n    \nOne breakfast is avai
 TRANSP:TRANSPARENT
 SEQUENCE:0
 END:VEVENT
+BEGIN:VEVENT
+UID:3453485@www.sanjuan.edu
+DTSTAMP:20261102T000000Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:Snack: Turkey Ham Croissant
+DESCRIPTION:\nTurkey Ham Croissant\n    \n \n    \nOne breakfast is availa
+ ble to all students at no cost. All meals are served with fruit variety an
+ d 1% low-fat or non-fat chocolate milk (soy milk available upon request). 
+ Students must choose at least one fruit option. All grains offered are who
+ le grain rich. Menu subject to change based on product availability.\n    
+ \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453486@www.sanjuan.edu
+DTSTAMP:20261103T000000Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Snack: BBQ Chicken Bites
+DESCRIPTION:\nBBQ Chicken Bites\n    \n \n    \nOne breakfast is available
+  to all students at no cost. All meals are served with fruit variety and 1
+ % low-fat or non-fat chocolate milk (soy milk available upon request). Stu
+ dents must choose at least one fruit option. All grains offered are whole 
+ grain rich. Menu subject to change based on product availability.\n    \nT
+ his institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453487@www.sanjuan.edu
+DTSTAMP:20261104T000000Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:Snack: Bagel w Jalapeno Cr Cheese
+DESCRIPTION:\nBagel w Jalapeno Cr Cheese\n    \n \n    \nOne breakfast is 
+ available to all students at no cost. All meals are served with fruit vari
+ ety and 1% low-fat or non-fat chocolate milk (soy milk available upon requ
+ est). Students must choose at least one fruit option. All grains offered a
+ re whole grain rich. Menu subject to change based on product availability.
+ \n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453488@www.sanjuan.edu
+DTSTAMP:20261105T000000Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Snack: Grilled Cheese Swich
+DESCRIPTION:\nGrilled Cheese Swich\n    \n \n    \nOne breakfast is availa
+ ble to all students at no cost. All meals are served with fruit variety an
+ d 1% low-fat or non-fat chocolate milk (soy milk available upon request). 
+ Students must choose at least one fruit option. All grains offered are who
+ le grain rich. Menu subject to change based on product availability.\n    
+ \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453489@www.sanjuan.edu
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Snack: Boiled Egg w Crackers
+DESCRIPTION:\nBoiled Egg w Crackers\n    \n \n    \nOne breakfast is avail
+ able to all students at no cost. All meals are served with fruit variety a
+ nd 1% low-fat or non-fat chocolate milk (soy milk available upon request).
+  Students must choose at least one fruit option. All grains offered are wh
+ ole grain rich. Menu subject to change based on product availability.\n   
+  \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453490@www.sanjuan.edu
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Snack: BBQ Chicken Bites
+DESCRIPTION:\nBBQ Chicken Bites\n    \n \n    \nOne breakfast is available
+  to all students at no cost. All meals are served with fruit variety and 1
+ % low-fat or non-fat chocolate milk (soy milk available upon request). Stu
+ dents must choose at least one fruit option. All grains offered are whole 
+ grain rich. Menu subject to change based on product availability.\n    \nT
+ his institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453491@www.sanjuan.edu
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Snack: Wowbutter Sandwich\, Grape
+DESCRIPTION:\nWowbutter Sandwich\, Grape\n    \n \n    \nOne breakfast is 
+ available to all students at no cost. All meals are served with fruit vari
+ ety and 1% low-fat or non-fat chocolate milk (soy milk available upon requ
+ est). Students must choose at least one fruit option. All grains offered a
+ re whole grain rich. Menu subject to change based on product availability.
+ \n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453492@www.sanjuan.edu
+DTSTAMP:20261116T000000Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:Snack: Bagel w Jalapeno Cr Cheese
+DESCRIPTION:\nBagel w Jalapeno Cr Cheese\n    \n \n    \nOne breakfast is 
+ available to all students at no cost. All meals are served with fruit vari
+ ety and 1% low-fat or non-fat chocolate milk (soy milk available upon requ
+ est). Students must choose at least one fruit option. All grains offered a
+ re whole grain rich. Menu subject to change based on product availability.
+ \n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453493@www.sanjuan.edu
+DTSTAMP:20261117T000000Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Snack: Wowbutter Sandwich\, Grape
+DESCRIPTION:\nWowbutter Sandwich\, Grape\n    \n \n    \nOne breakfast is 
+ available to all students at no cost. All meals are served with fruit vari
+ ety and 1% low-fat or non-fat chocolate milk (soy milk available upon requ
+ est). Students must choose at least one fruit option. All grains offered a
+ re whole grain rich. Menu subject to change based on product availability.
+ \n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453494@www.sanjuan.edu
+DTSTAMP:20261118T000000Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Snack: Bagel w Jalapeno Cr Cheese
+DESCRIPTION:\nBagel w Jalapeno Cr Cheese\n    \n \n    \nOne breakfast is 
+ available to all students at no cost. All meals are served with fruit vari
+ ety and 1% low-fat or non-fat chocolate milk (soy milk available upon requ
+ est). Students must choose at least one fruit option. All grains offered a
+ re whole grain rich. Menu subject to change based on product availability.
+ \n    \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453495@www.sanjuan.edu
+DTSTAMP:20261119T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Snack: Grilled Cheese Swich
+DESCRIPTION:\nGrilled Cheese Swich\n    \n \n    \nOne breakfast is availa
+ ble to all students at no cost. All meals are served with fruit variety an
+ d 1% low-fat or non-fat chocolate milk (soy milk available upon request). 
+ Students must choose at least one fruit option. All grains offered are who
+ le grain rich. Menu subject to change based on product availability.\n    
+ \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453496@www.sanjuan.edu
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Snack: Boiled Egg w Crackers
+DESCRIPTION:\nBoiled Egg w Crackers\n    \n \n    \nOne breakfast is avai
+ lable to all students at no cost. All meals are served with fruit variety 
+ and 1% low-fat or non-fat chocolate milk (soy milk available upon request)
+ . Students must choose at least one fruit option. All grains offered are w
+ hole grain rich. Menu subject to change based on product availability.\n  
+   \nThis institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:3453497@www.sanjuan.edu
+DTSTAMP:20261130T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Snack: BBQ Chicken Bites
+DESCRIPTION:\nBBQ Chicken Bites\n    \n \n    \nOne breakfast is available
+  to all students at no cost. All meals are served with fruit variety and 1
+ % low-fat or non-fat chocolate milk (soy milk available upon request). Stu
+ dents must choose at least one fruit option. All grains offered are whole 
+ grain rich. Menu subject to change based on product availability.\n    \nT
+ his institution is an equal opportunity provider.\n
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR
