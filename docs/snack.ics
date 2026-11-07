@@ -8,21 +8,6 @@ NAME:School Snack
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3438510@www.sanjuan.edu
-DTSTAMP:20261007T000000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:Snack: Bagel w Jalapeno Cream Ch
-DESCRIPTION:\nBagel w Jalapeno Cream Ch\n    \n \n    \nOne breakfast is a
- vailable to all students at no cost. All meals are served with fruit varie
- ty and 1% low-fat or non-fat chocolate milk (soy milk available upon reque
- st). Students must choose at least one fruit option. All grains offered ar
- e whole grain rich. Menu subject to change based on product availability.\
- n    \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3438511@www.sanjuan.edu
 DTSTAMP:20261008T000000Z
 DTSTART;VALUE=DATE:20261008
