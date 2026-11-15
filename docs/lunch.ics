@@ -8,24 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3438469@www.sanjuan.edu
-DTSTAMP:20261015T000000Z
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-SUMMARY:Lunch: Teriyaki Beef Rice Bowl (beef & fresh) / Falafel Wrap (fresh
- \, halal\, & vegan) / Protein Box
-DESCRIPTION:\nTeriyaki Beef Rice Bowl (beef & fresh)\n    \n \n    \nFala
- fel Wrap (fresh\, halal\, & vegan)\n    \n \n    \nProtein Box\n    \n \
- n    \nOne breakfast is available to all students at no cost. All meals ar
- e served with fruit variety and 1% low-fat or non-fat chocolate milk (soy 
- milk available upon request). Students must choose at least one fruit opti
- on. All grains offered are whole grain rich. Menu subject to change based 
- on product availability.\n    \nThis institution is an equal opportunity p
- rovider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3438470@www.sanjuan.edu
 DTSTAMP:20261016T000000Z
 DTSTART;VALUE=DATE:20261016
