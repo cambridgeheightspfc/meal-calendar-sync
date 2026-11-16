@@ -8,23 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3438448@www.sanjuan.edu
-DTSTAMP:20261016T000000Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:Breakfast: Blueberry Banana Mini Loaf (fresh) / Pancake Beef Stick 
- / Cereal Variety
-DESCRIPTION:\nBlueberry Banana Mini Loaf (fresh)\n    \n \n    \nPancake B
- eef Stick\n    \n \n    \nCereal Variety\n    \n \n    \nOne breakfast i
- s available to all students at no cost. All meals are served with fruit va
- riety and 1% low-fat or non-fat chocolate milk (soy milk available upon re
- quest). Students must choose at least one fruit option. All grains offered
-  are whole grain rich. Menu subject to change based on product availabilit
- y.\n    \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3438449@www.sanjuan.edu
 DTSTAMP:20261019T000000Z
 DTSTART;VALUE=DATE:20261019
