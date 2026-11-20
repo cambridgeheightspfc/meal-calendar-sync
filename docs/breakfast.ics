@@ -8,23 +8,6 @@ NAME:School Breakfast
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3438450@www.sanjuan.edu
-DTSTAMP:20261020T000000Z
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-SUMMARY:Breakfast: Egg Chilaquiles (fresh) / Cocoa Fruit Oats (fresh) / Bag
- el w Jalapeno Cream Ch
-DESCRIPTION:\nEgg Chilaquiles (fresh)\n    \n \n    \nCocoa Fruit Oats (fr
- esh)\n    \n \n    \nBagel w Jalapeno Cream Ch\n    \n \n    \nOne break
- fast is available to all students at no cost. All meals are served with fr
- uit variety and 1% low-fat or non-fat chocolate milk (soy milk available u
- pon request). Students must choose at least one fruit option. All grains o
- ffered are whole grain rich. Menu subject to change based on product avail
- ability.\n    \nThis institution is an equal opportunity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3438451@www.sanjuan.edu
 DTSTAMP:20261021T000000Z
 DTSTART;VALUE=DATE:20261021
