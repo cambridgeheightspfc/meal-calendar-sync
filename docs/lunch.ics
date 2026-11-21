@@ -8,24 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3438473@www.sanjuan.edu
-DTSTAMP:20261021T000000Z
-DTSTART;VALUE=DATE:20261021
-DTEND;VALUE=DATE:20261022
-SUMMARY:Lunch: Homestyle Turkey Bowl (fresh) / Pizza\, Ch Galaxy (vegetaria
- n) / Bento Box (vegetarian)
-DESCRIPTION:\nHomestyle Turkey Bowl (fresh)\n    \n \n    \nPizza\, Ch Gal
- axy (vegetarian)\n    \n \n    \nBento Box (vegetarian)\n    \n \n    \
- nOne breakfast is available to all students at no cost. All meals are serv
- ed with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk a
- vailable upon request). Students must choose at least one fruit option. Al
- l grains offered are whole grain rich. Menu subject to change based on pro
- duct availability.\n    \nThis institution is an equal opportunity provide
- r.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3438474@www.sanjuan.edu
 DTSTAMP:20261022T000000Z
 DTSTART;VALUE=DATE:20261022
