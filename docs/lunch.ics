@@ -8,24 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3438474@www.sanjuan.edu
-DTSTAMP:20261022T000000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-SUMMARY:Lunch: Smashed Cheeseburger (beef & fresh) / Black Bean Burger (fre
- sh & vegan) / Protein Box
-DESCRIPTION:\nSmashed Cheeseburger (beef & fresh)\n    \n \n    \nBlack Be
- an Burger (fresh & vegan)\n    \n \n    \nProtein Box\n    \n \n    \nOn
- e breakfast is available to all students at no cost. All meals are served 
- with fruit variety and 1% low-fat or non-fat chocolate milk (soy milk avai
- lable upon request). Students must choose at least one fruit option. All g
- rains offered are whole grain rich. Menu subject to change based on produc
- t availability.\n    \nThis institution is an equal opportunity provider.\
- n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3438475@www.sanjuan.edu
 DTSTAMP:20261023T000000Z
 DTSTART;VALUE=DATE:20261023
