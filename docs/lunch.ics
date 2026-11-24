@@ -8,24 +8,6 @@ NAME:School Lunch
 REFRESH-INTERVAL;VALUE=DURATION:PT24H
 X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
-UID:3438475@www.sanjuan.edu
-DTSTAMP:20261023T000000Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-SUMMARY:Lunch: Crunchy Fish\, Slaw Sandwich (fresh) / Grilled Cheese Sandwi
- ch (vegetarian) / Bento Box (vegetarian)
-DESCRIPTION:\nCrunchy Fish\, Slaw Sandwich (fresh)\n    \n \n    \nGrilled
-  Cheese Sandwich (vegetarian)\n    \n \n    \nBento Box (vegetarian)\n  
-   \n \n    \nOne breakfast is available to all students at no cost. All m
- eals are served with fruit variety and 1% low-fat or non-fat chocolate mil
- k (soy milk available upon request). Students must choose at least one fru
- it option. All grains offered are whole grain rich. Menu subject to change
-  based on product availability.\n    \nThis institution is an equal opport
- unity provider.\n
-TRANSP:TRANSPARENT
-SEQUENCE:0
-END:VEVENT
-BEGIN:VEVENT
 UID:3438476@www.sanjuan.edu
 DTSTAMP:20261026T000000Z
 DTSTART;VALUE=DATE:20261026
